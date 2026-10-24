@@ -3,13 +3,17 @@
 Зелёная адаптивная версия сайта Алтайского биофармацевтического кластера.
 Статический HTML/CSS/JavaScript без сборки и серверных зависимостей.
 
-Сайт: https://dur0vd.github.io/altaybio/
+Адрес после включения GitHub Pages: https://dur0vd.github.io/altaybio/
 
 ## Публикация на GitHub Pages
 
 Ветка `main` содержит исходники, парсер и папку `dist` с готовым сайтом.
 GitHub Pages публикует корень ветки `gh-pages`, содержащей файлы из `dist`.
 Сайт работает самостоятельно на GitHub Pages, без серверов Sites.
+
+Однократная настройка владельцем: Settings → Pages → Source: Deploy from a branch
+→ Branch: `gh-pages`, папка `/(root)` → Save. Подключение, загрузившее файлы,
+не имеет права включать Pages через API (GitHub вернул HTTP 403).
 
 После изменений и коммита в `main` обновить сайт:
 
