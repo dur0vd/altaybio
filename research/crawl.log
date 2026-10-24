@@ -1,0 +1,80 @@
+Pages fetched: 4, queue: 61, failures: 0
+Pages fetched: 8, queue: 57, failures: 0
+Pages fetched: 12, queue: 53, failures: 0
+Pages fetched: 16, queue: 49, failures: 0
+Pages fetched: 20, queue: 45, failures: 0
+Pages fetched: 24, queue: 41, failures: 0
+Pages fetched: 28, queue: 37, failures: 0
+Pages fetched: 32, queue: 33, failures: 0
+Pages fetched: 36, queue: 29, failures: 0
+Pages fetched: 40, queue: 25, failures: 0
+Pages fetched: 44, queue: 21, failures: 0
+Pages fetched: 48, queue: 17, failures: 0
+Pages fetched: 52, queue: 13, failures: 0
+Pages fetched: 56, queue: 15, failures: 0
+Pages fetched: 60, queue: 35, failures: 0
+Pages fetched: 64, queue: 59, failures: 0
+Pages fetched: 68, queue: 62, failures: 0
+Pages fetched: 72, queue: 58, failures: 0
+Pages fetched: 76, queue: 54, failures: 0
+Pages fetched: 80, queue: 50, failures: 0
+Pages fetched: 84, queue: 46, failures: 0
+Pages fetched: 88, queue: 42, failures: 0
+Pages fetched: 92, queue: 38, failures: 0
+Pages fetched: 96, queue: 34, failures: 0
+Pages fetched: 100, queue: 30, failures: 0
+Pages fetched: 104, queue: 26, failures: 0
+Pages fetched: 108, queue: 40, failures: 0
+Pages fetched: 112, queue: 42, failures: 0
+Pages fetched: 116, queue: 38, failures: 0
+Pages fetched: 120, queue: 34, failures: 0
+Pages fetched: 124, queue: 30, failures: 0
+Pages fetched: 128, queue: 26, failures: 0
+Pages fetched: 132, queue: 24, failures: 0
+Pages fetched: 136, queue: 20, failures: 0
+Pages fetched: 140, queue: 16, failures: 0
+Pages fetched: 144, queue: 12, failures: 0
+Pages fetched: 148, queue: 8, failures: 0
+Pages fetched: 152, queue: 4, failures: 0
+Pages fetched: 156, queue: 0, failures: 0
+Assets processed: 1/420
+Assets processed: 21/420
+Assets processed: 41/420
+Assets processed: 61/420
+Assets processed: 81/420
+Assets processed: 101/420
+Assets processed: 121/420
+Assets processed: 141/420
+Assets processed: 161/420
+Assets processed: 181/420
+Assets processed: 201/420
+Assets processed: 221/420
+Assets processed: 241/420
+Assets processed: 261/420
+Assets processed: 281/420
+Assets processed: 301/420
+Assets processed: 321/420
+Assets processed: 341/420
+Assets processed: 361/420
+Assets processed: 381/420
+Assets processed: 401/420
+{
+  "source": "http://altaybio.ru",
+  "started_at": "2026-10-24T13:54:57.478951+00:00",
+  "completed_at": "2026-10-24T13:55:56.369229+00:00",
+  "page_count": 156,
+  "article_count": 138,
+  "member_count": 29,
+  "news_count": 96,
+  "announcement_count": 10,
+  "asset_count": 420,
+  "asset_bytes": 33220907,
+  "errors": [],
+  "asset_errors": [],
+  "remaining_urls": [],
+  "coverage": "All publicly linked informational pages from the five main sections, including pagination. No admin/auth/search/feed/print pages.",
+  "excluded_patterns": "(?:administrator|logout|login|registration|password|reset|remind|search|task=|format=|print=|feed|tmpl=|mailto:|tel:)",
+  "max_pages": 5000,
+  "workers": 4,
+  "date_note": "Dates remain null where the source does not publish a machine-readable publication date; no dates were invented."
+}

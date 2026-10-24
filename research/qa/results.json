@@ -1,0 +1,68 @@
+{
+  "checks": [
+    {
+      "name": "home",
+      "h1": "Природа Алтая.\nТехнологии будущего.",
+      "overflow": false
+    },
+    {
+      "name": "members",
+      "count": 29
+    },
+    {
+      "name": "member search",
+      "text": "Найдено материалов: 1 · Показаны 1–1\n01\n↗\nЗАО “Эвалар”\nУчастник Алтайского биофармацевтического кластера"
+    },
+    {
+      "name": "member article",
+      "h1": "ЗАО “Эвалар”",
+      "images": 4
+    },
+    {
+      "name": "news page 1",
+      "count": 12,
+      "first": "Бизнес-миссия Екатеринбург"
+    },
+    {
+      "name": "news pagination",
+      "count": 12,
+      "selected": "2",
+      "first": "Биофармацевтический кластер Алтайского края представил продукцию на выставке «InterCHARM» в Москве"
+    },
+    {
+      "name": "news article",
+      "h1": "Биофармацевтический кластер Алтайского края представил продукцию на выставке «InterCHARM» в Москве",
+      "brokenImages": []
+    },
+    {
+      "name": "global quick search",
+      "count": 5
+    },
+    {
+      "name": "global search submit",
+      "url": "http://127.0.0.1:8000/#/archive?q=%D0%91%D0%B8%D0%B9%D1%81%D0%BA",
+      "count": 12,
+      "status": "Найдено материалов: 57 · Показаны 1–12"
+    },
+    {
+      "name": "contacts",
+      "email": "mailto:abfc2@yandex.ru"
+    },
+    {
+      "name": "credits",
+      "text": "Содержимое перенесено с altaybio.ru. Выполнен разовый обход всех найденных публичных страниц. Архив отражает состояние источника на дату переноса и не обновляется автоматически.\n\nСтраниц в обходе: 156. Материалов без страниц пагинации: 138. Дата переноса: 2026-10-24.\n\nИсторические сведения и состав участников сохранены по исходному сайту. Новый раздел об Алтае подготовлен для этой версии.\n\nФотографии природы Алтая\nYaroslav Shuraev — Shallow River Between Green Mountains Under Blue Sky. Pexels License.\nАнатолий Стафичук — Photograph of a River Near Green Trees. Pexels License.\nЕвгений Шухман — A Lake by a Forest. Pexels License.\n\nСкачать полный массив материалов (JSON)"
+    },
+    {
+      "name": "mobile",
+      "overflow": true
+    },
+    {
+      "name": "mobile menu navigation",
+      "url": "http://127.0.0.1:8000/#/news",
+      "hidden": true,
+      "overflow": false
+    }
+  ],
+  "errors": [],
+  "failed": []
+}

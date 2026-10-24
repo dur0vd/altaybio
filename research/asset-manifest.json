@@ -1,0 +1,1686 @@
+{
+  "http://altaybio.ru/images/articles_img/1.jpg": {
+    "local": "/assets/source/1-1bb0dac432.jpg",
+    "bytes": 168060
+  },
+  "http://altaybio.ru/images/articles_img/2.jpg": {
+    "local": "/assets/source/2-c3975dde75.jpg",
+    "bytes": 19432
+  },
+  "http://altaybio.ru/images/articles_img/Teplovgv.jpg": {
+    "local": "/assets/source/Teplovgv-ea5ccfb34f.jpg",
+    "bytes": 19448
+  },
+  "http://altaybio.ru/images/articles_img/a161.jpg": {
+    "local": "/assets/source/a161-d1b62145c2.jpg",
+    "bytes": 60977
+  },
+  "http://altaybio.ru/images/articles_img/a162.jpg": {
+    "local": "/assets/source/a162-f96a1ded35.jpg",
+    "bytes": 59581
+  },
+  "http://altaybio.ru/images/articles_img/a163.jpg": {
+    "local": "/assets/source/a163-6f39e8747c.jpg",
+    "bytes": 34257
+  },
+  "http://altaybio.ru/images/articles_img/a164.jpg": {
+    "local": "/assets/source/a164-1608d296da.jpg",
+    "bytes": 63084
+  },
+  "http://altaybio.ru/images/articles_img/agmu-altayvitaminy.jpg": {
+    "local": "/assets/source/agmu-altayvitaminy-34516eadbb.jpg",
+    "bytes": 5072
+  },
+  "http://altaybio.ru/images/articles_img/agmu-dir.jpg": {
+    "local": "/assets/source/agmu-dir-7588a44c92.jpg",
+    "bytes": 18037
+  },
+  "http://altaybio.ru/images/articles_img/agmu-feron.jpg": {
+    "local": "/assets/source/agmu-feron-feb3c4d58a.jpg",
+    "bytes": 5951
+  },
+  "http://altaybio.ru/images/articles_img/agmu-gerb1.jpg": {
+    "local": "/assets/source/agmu-gerb1-3863ae4399.jpg",
+    "bytes": 20137
+  },
+  "http://altaybio.ru/images/articles_img/agmu-gerb2.jpg": {
+    "local": "/assets/source/agmu-gerb2-997e334b03.jpg",
+    "bytes": 18544
+  },
+  "http://altaybio.ru/images/articles_img/agmu-novartis.jpg": {
+    "local": "/assets/source/agmu-novartis-4ebf778fbd.jpg",
+    "bytes": 7240
+  },
+  "http://altaybio.ru/images/articles_img/agmu-rfarm.jpg": {
+    "local": "/assets/source/agmu-rfarm-7bebb02038.jpg",
+    "bytes": 9212
+  },
+  "http://altaybio.ru/images/articles_img/agu-dir.jpg": {
+    "local": "/assets/source/agu-dir-a9628529fd.jpg",
+    "bytes": 18611
+  },
+  "http://altaybio.ru/images/articles_img/agu-logo.jpg": {
+    "local": "/assets/source/agu-logo-cdd8e0ceea.jpg",
+    "bytes": 15653
+  },
+  "http://altaybio.ru/images/articles_img/agu-prod1.jpg": {
+    "local": "/assets/source/agu-prod1-b1805a7e66.jpg",
+    "bytes": 11349
+  },
+  "http://altaybio.ru/images/articles_img/agu-prod2.jpg": {
+    "local": "/assets/source/agu-prod2-314a72065d.jpg",
+    "bytes": 7791
+  },
+  "http://altaybio.ru/images/articles_img/agu-prod3.jpg": {
+    "local": "/assets/source/agu-prod3-a9987e83a5.jpg",
+    "bytes": 8279
+  },
+  "http://altaybio.ru/images/articles_img/agu-prod4.jpg": {
+    "local": "/assets/source/agu-prod4-e5b1c9b776.jpg",
+    "bytes": 9114
+  },
+  "http://altaybio.ru/images/articles_img/agu-prod5.jpg": {
+    "local": "/assets/source/agu-prod5-7aeaa2653b.jpg",
+    "bytes": 9475
+  },
+  "http://altaybio.ru/images/articles_img/agu-prod6.jpg": {
+    "local": "/assets/source/agu-prod6-3f87dbb66a.jpg",
+    "bytes": 19228
+  },
+  "http://altaybio.ru/images/articles_img/aktru-dir.jpg": {
+    "local": "/assets/source/aktru-dir-cd519d25e3.jpg",
+    "bytes": 23132
+  },
+  "http://altaybio.ru/images/articles_img/aktru-logo.jpg": {
+    "local": "/assets/source/aktru-logo-7eb31e0346.jpg",
+    "bytes": 4303
+  },
+  "http://altaybio.ru/images/articles_img/aktru-prod1.jpg": {
+    "local": "/assets/source/aktru-prod1-75a9d07721.jpg",
+    "bytes": 15761
+  },
+  "http://altaybio.ru/images/articles_img/aktru-prod2.jpg": {
+    "local": "/assets/source/aktru-prod2-b2227860c1.jpg",
+    "bytes": 18474
+  },
+  "http://altaybio.ru/images/articles_img/aktru-prod3.jpg": {
+    "local": "/assets/source/aktru-prod3-ff667e653b.jpg",
+    "bytes": 10790
+  },
+  "http://altaybio.ru/images/articles_img/aktru-prod4.jpg": {
+    "local": "/assets/source/aktru-prod4-95dc88bd2b.jpg",
+    "bytes": 11456
+  },
+  "http://altaybio.ru/images/articles_img/aktru-prod5.jpg": {
+    "local": "/assets/source/aktru-prod5-b5deb648be.jpg",
+    "bytes": 12568
+  },
+  "http://altaybio.ru/images/articles_img/alkor-dir.jpg": {
+    "local": "/assets/source/alkor-dir-3a9daffc81.jpg",
+    "bytes": 21477
+  },
+  "http://altaybio.ru/images/articles_img/alkor-pr1.jpg": {
+    "local": "/assets/source/alkor-pr1-32a189aff2.jpg",
+    "bytes": 19765
+  },
+  "http://altaybio.ru/images/articles_img/alkor-pr2.jpg": {
+    "local": "/assets/source/alkor-pr2-0fef4f38af.jpg",
+    "bytes": 14092
+  },
+  "http://altaybio.ru/images/articles_img/alkor-pr3.jpg": {
+    "local": "/assets/source/alkor-pr3-498df17c66.jpg",
+    "bytes": 13390
+  },
+  "http://altaybio.ru/images/articles_img/alkor-pr4.jpg": {
+    "local": "/assets/source/alkor-pr4-7d0f9d70d9.jpg",
+    "bytes": 17190
+  },
+  "http://altaybio.ru/images/articles_img/alkor-pr5.jpg": {
+    "local": "/assets/source/alkor-pr5-3ed95dce5f.jpg",
+    "bytes": 19579
+  },
+  "http://altaybio.ru/images/articles_img/alteya/altea_chai.jpg": {
+    "local": "/assets/source/altea_chai-10a2a1fc1b.jpg",
+    "bytes": 120343
+  },
+  "http://altaybio.ru/images/articles_img/alteya/altea_kollagen.jpg": {
+    "local": "/assets/source/altea_kollagen-86d9dec487.jpg",
+    "bytes": 16516
+  },
+  "http://altaybio.ru/images/articles_img/art1img2.jpg": {
+    "local": "/assets/source/art1img2-753dd38915.jpg",
+    "bytes": 25929
+  },
+  "http://altaybio.ru/images/articles_img/art1img3.jpg": {
+    "local": "/assets/source/art1img3-2e568d8dc3.jpg",
+    "bytes": 22054
+  },
+  "http://altaybio.ru/images/articles_img/art1img4.jpg": {
+    "local": "/assets/source/art1img4-e99c88527b.jpg",
+    "bytes": 10644
+  },
+  "http://altaybio.ru/images/articles_img/art4img1.jpg": {
+    "local": "/assets/source/art4img1-cda95ee0b2.jpg",
+    "bytes": 24097
+  },
+  "http://altaybio.ru/images/articles_img/art4img2.jpg": {
+    "local": "/assets/source/art4img2-8df7cbc7c2.jpg",
+    "bytes": 38655
+  },
+  "http://altaybio.ru/images/articles_img/art4img3.jpg": {
+    "local": "/assets/source/art4img3-66f4c6c830.jpg",
+    "bytes": 38244
+  },
+  "http://altaybio.ru/images/articles_img/art5img1.jpg": {
+    "local": "/assets/source/art5img1-00c8319677.jpg",
+    "bytes": 19854
+  },
+  "http://altaybio.ru/images/articles_img/art5img2.jpg": {
+    "local": "/assets/source/art5img2-58c558f2f6.jpg",
+    "bytes": 22100
+  },
+  "http://altaybio.ru/images/articles_img/bahtin.jpg": {
+    "local": "/assets/source/bahtin-6028e0210a.jpg",
+    "bytes": 24565
+  },
+  "http://altaybio.ru/images/articles_img/balzamdir.jpg": {
+    "local": "/assets/source/balzamdir-9cdee06627.jpg",
+    "bytes": 22118
+  },
+  "http://altaybio.ru/images/articles_img/bti-altea.jpg": {
+    "local": "/assets/source/bti-altea-3fd2f1938c.jpg",
+    "bytes": 7076
+  },
+  "http://altaybio.ru/images/articles_img/bti-av.jpg": {
+    "local": "/assets/source/bti-av-4b4580d15b.jpg",
+    "bytes": 12180
+  },
+  "http://altaybio.ru/images/articles_img/bti-bochkari.jpg": {
+    "local": "/assets/source/bti-bochkari-5979f13504.jpg",
+    "bytes": 10374
+  },
+  "http://altaybio.ru/images/articles_img/bti-dir.jpg": {
+    "local": "/assets/source/bti-dir-0cbf2b44c1.jpg",
+    "bytes": 21033
+  },
+  "http://altaybio.ru/images/articles_img/bti-evalarv.jpg": {
+    "local": "/assets/source/bti-evalarv-4860437c08.jpg",
+    "bytes": 7730
+  },
+  "http://altaybio.ru/images/articles_img/bti-logo.jpg": {
+    "local": "/assets/source/bti-logo-7ae2e0befb.jpg",
+    "bytes": 8883
+  },
+  "http://altaybio.ru/images/articles_img/bti-logo2.jpg": {
+    "local": "/assets/source/bti-logo2-99437c6bde.jpg",
+    "bytes": 10219
+  },
+  "http://altaybio.ru/images/articles_img/bti-logo3.jpg": {
+    "local": "/assets/source/bti-logo3-7a1ef6a4af.jpg",
+    "bytes": 12080
+  },
+  "http://altaybio.ru/images/articles_img/bti-logo4.jpg": {
+    "local": "/assets/source/bti-logo4-265275c1cd.jpg",
+    "bytes": 10671
+  },
+  "http://altaybio.ru/images/articles_img/btiprod1.jpg": {
+    "local": "/assets/source/btiprod1-59674261e6.jpg",
+    "bytes": 10415
+  },
+  "http://altaybio.ru/images/articles_img/btiprod2.jpg": {
+    "local": "/assets/source/btiprod2-1225abc45c.jpg",
+    "bytes": 17035
+  },
+  "http://altaybio.ru/images/articles_img/btiprod3.jpg": {
+    "local": "/assets/source/btiprod3-4723cd6d54.jpg",
+    "bytes": 11919
+  },
+  "http://altaybio.ru/images/articles_img/btiprod4.jpg": {
+    "local": "/assets/source/btiprod4-c1d7d0db3d.jpg",
+    "bytes": 14990
+  },
+  "http://altaybio.ru/images/articles_img/btiprod5.jpg": {
+    "local": "/assets/source/btiprod5-fdd0cd8b87.jpg",
+    "bytes": 12612
+  },
+  "http://altaybio.ru/images/articles_img/btiprod6.jpg": {
+    "local": "/assets/source/btiprod6-8e2b5628d9.jpg",
+    "bytes": 11913
+  },
+  "http://altaybio.ru/images/articles_img/circle_table.JPG": {
+    "local": "/assets/source/circle_table-fa07c66b02.jpg",
+    "bytes": 51804
+  },
+  "http://altaybio.ru/images/articles_img/dityatev.jpg": {
+    "local": "/assets/source/dityatev-f2e48cad05.jpg",
+    "bytes": 14881
+  },
+  "http://altaybio.ru/images/articles_img/dms1.jpg": {
+    "local": "/assets/source/dms1-55a5aae7e1.jpg",
+    "bytes": 98377
+  },
+  "http://altaybio.ru/images/articles_img/dms2.jpg": {
+    "local": "/assets/source/dms2-e733764e39.jpg",
+    "bytes": 43186
+  },
+  "http://altaybio.ru/images/articles_img/dms3.jpg": {
+    "local": "/assets/source/dms3-dda2c16782.jpg",
+    "bytes": 61826
+  },
+  "http://altaybio.ru/images/articles_img/dms4.jpg": {
+    "local": "/assets/source/dms4-8cc0d3b13a.jpg",
+    "bytes": 83113
+  },
+  "http://altaybio.ru/images/articles_img/dms6.jpg": {
+    "local": "/assets/source/dms6-7af9a807ef.jpg",
+    "bytes": 84760
+  },
+  "http://altaybio.ru/images/articles_img/dms7.jpg": {
+    "local": "/assets/source/dms7-c09acd6d64.jpg",
+    "bytes": 104332
+  },
+  "http://altaybio.ru/images/articles_img/dms8.jpg": {
+    "local": "/assets/source/dms8-dd6b95ebbf.jpg",
+    "bytes": 59558
+  },
+  "http://altaybio.ru/images/articles_img/dolgoletdir.jpg": {
+    "local": "/assets/source/dolgoletdir-3615034899.jpg",
+    "bytes": 12290
+  },
+  "http://altaybio.ru/images/articles_img/events/kazan0.jpg": {
+    "local": "/assets/source/kazan0-648ecb2448.jpg",
+    "bytes": 75058
+  },
+  "http://altaybio.ru/images/articles_img/events/kazan1.jpg": {
+    "local": "/assets/source/kazan1-dc23fa15e3.jpg",
+    "bytes": 54419
+  },
+  "http://altaybio.ru/images/articles_img/events/kazan2.jpg": {
+    "local": "/assets/source/kazan2-ce7df44161.jpg",
+    "bytes": 46929
+  },
+  "http://altaybio.ru/images/articles_img/events/kazan3.jpg": {
+    "local": "/assets/source/kazan3-5432e5649a.jpg",
+    "bytes": 62730
+  },
+  "http://altaybio.ru/images/articles_img/foto_mamot.jpg": {
+    "local": "/assets/source/foto_mamot-33a228bcb3.jpg",
+    "bytes": 10479
+  },
+  "http://altaybio.ru/images/articles_img/glazirin.jpg": {
+    "local": "/assets/source/glazirin-55f8d7b79c.jpg",
+    "bytes": 20103
+  },
+  "http://altaybio.ru/images/articles_img/ipcet-fasad.jpg": {
+    "local": "/assets/source/ipcet-fasad-1930646621.jpg",
+    "bytes": 16738
+  },
+  "http://altaybio.ru/images/articles_img/ipcet1.jpg": {
+    "local": "/assets/source/ipcet1-57739de394.jpg",
+    "bytes": 12830
+  },
+  "http://altaybio.ru/images/articles_img/ipcet2.jpg": {
+    "local": "/assets/source/ipcet2-f908a4410e.jpg",
+    "bytes": 10508
+  },
+  "http://altaybio.ru/images/articles_img/ipcet3.jpg": {
+    "local": "/assets/source/ipcet3-4c92354188.jpg",
+    "bytes": 12270
+  },
+  "http://altaybio.ru/images/articles_img/ipcet4.jpg": {
+    "local": "/assets/source/ipcet4-c3c5f860a9.jpg",
+    "bytes": 11593
+  },
+  "http://altaybio.ru/images/articles_img/ipcet5.jpg": {
+    "local": "/assets/source/ipcet5-88c63fbf49.jpg",
+    "bytes": 15513
+  },
+  "http://altaybio.ru/images/articles_img/ipcet_dir.jpg": {
+    "local": "/assets/source/ipcet_dir-6d6ad81113.jpg",
+    "bytes": 16413
+  },
+  "http://altaybio.ru/images/articles_img/ipcet_logo.jpg": {
+    "local": "/assets/source/ipcet_logo-a82f4ffcc4.jpg",
+    "bytes": 12974
+  },
+  "http://altaybio.ru/images/articles_img/kornilov/kornilov.jpg": {
+    "local": "/assets/source/kornilov-786cf252d3.jpg",
+    "bytes": 34175
+  },
+  "http://altaybio.ru/images/articles_img/kornilov/logo.jpg": {
+    "local": "/assets/source/logo-bfd8a2c108.jpg",
+    "bytes": 9024
+  },
+  "http://altaybio.ru/images/articles_img/logo-alteya.jpg": {
+    "local": "/assets/source/logo-alteya-17ed84a31f.jpg",
+    "bytes": 7157
+  },
+  "http://altaybio.ru/images/articles_img/malavit-dir.jpg": {
+    "local": "/assets/source/malavit-dir-9ec692b903.jpg",
+    "bytes": 22539
+  },
+  "http://altaybio.ru/images/articles_img/mamot.png": {
+    "local": "/assets/source/mamot-e6ccdece94.png",
+    "bytes": 6838
+  },
+  "http://altaybio.ru/images/articles_img/maral.jpg": {
+    "local": "/assets/source/maral-5d04473e8f.jpg",
+    "bytes": 75264
+  },
+  "http://altaybio.ru/images/articles_img/memb10.jpg": {
+    "local": "/assets/source/memb10-bb7978755c.jpg",
+    "bytes": 7740
+  },
+  "http://altaybio.ru/images/articles_img/memb101.jpg": {
+    "local": "/assets/source/memb101-69f2e8d20c.jpg",
+    "bytes": 14515
+  },
+  "http://altaybio.ru/images/articles_img/memb111.jpg": {
+    "local": "/assets/source/memb111-9ab9751222.jpg",
+    "bytes": 7374
+  },
+  "http://altaybio.ru/images/articles_img/memb112.jpg": {
+    "local": "/assets/source/memb112-b15dc2daac.jpg",
+    "bytes": 4884
+  },
+  "http://altaybio.ru/images/articles_img/memb113.jpg": {
+    "local": "/assets/source/memb113-3459759668.jpg",
+    "bytes": 7669
+  },
+  "http://altaybio.ru/images/articles_img/memb161.jpg": {
+    "local": "/assets/source/memb161-56fcde831f.jpg",
+    "bytes": 10261
+  },
+  "http://altaybio.ru/images/articles_img/memb162.jpg": {
+    "local": "/assets/source/memb162-b47b1b6c3c.jpg",
+    "bytes": 9714
+  },
+  "http://altaybio.ru/images/articles_img/memb163.jpg": {
+    "local": "/assets/source/memb163-cf06797891.jpg",
+    "bytes": 8843
+  },
+  "http://altaybio.ru/images/articles_img/memb17.jpg": {
+    "local": "/assets/source/memb17-b6d4737efe.jpg",
+    "bytes": 8301
+  },
+  "http://altaybio.ru/images/articles_img/memb19.jpg": {
+    "local": "/assets/source/memb19-171b075145.jpg",
+    "bytes": 7084
+  },
+  "http://altaybio.ru/images/articles_img/memb22.jpg": {
+    "local": "/assets/source/memb22-94973e3b41.jpg",
+    "bytes": 5806
+  },
+  "http://altaybio.ru/images/articles_img/memb221.jpg": {
+    "local": "/assets/source/memb221-9c8e72bc04.jpg",
+    "bytes": 12251
+  },
+  "http://altaybio.ru/images/articles_img/memb222.jpg": {
+    "local": "/assets/source/memb222-cb5fe1a520.jpg",
+    "bytes": 7537
+  },
+  "http://altaybio.ru/images/articles_img/memb223.jpg": {
+    "local": "/assets/source/memb223-0ea7c88608.jpg",
+    "bytes": 6107
+  },
+  "http://altaybio.ru/images/articles_img/memb224.jpg": {
+    "local": "/assets/source/memb224-9df0c5bdb5.jpg",
+    "bytes": 12886
+  },
+  "http://altaybio.ru/images/articles_img/memb225.jpg": {
+    "local": "/assets/source/memb225-f6e86128ed.jpg",
+    "bytes": 3207
+  },
+  "http://altaybio.ru/images/articles_img/memb24.jpg": {
+    "local": "/assets/source/memb24-590c3c9a9c.jpg",
+    "bytes": 6534
+  },
+  "http://altaybio.ru/images/articles_img/memb261.jpg": {
+    "local": "/assets/source/memb261-1c18866f40.jpg",
+    "bytes": 10995
+  },
+  "http://altaybio.ru/images/articles_img/memb262.jpg": {
+    "local": "/assets/source/memb262-4188230a89.jpg",
+    "bytes": 12660
+  },
+  "http://altaybio.ru/images/articles_img/memb263.jpg": {
+    "local": "/assets/source/memb263-614825ad12.jpg",
+    "bytes": 13212
+  },
+  "http://altaybio.ru/images/articles_img/memb264.jpg": {
+    "local": "/assets/source/memb264-c58e206653.jpg",
+    "bytes": 14631
+  },
+  "http://altaybio.ru/images/articles_img/memb265.jpg": {
+    "local": "/assets/source/memb265-5ca12281e1.jpg",
+    "bytes": 18837
+  },
+  "http://altaybio.ru/images/articles_img/memb9.jpg": {
+    "local": "/assets/source/memb9-cc977b0da2.jpg",
+    "bytes": 10221
+  },
+  "http://altaybio.ru/images/articles_img/memb91.jpg": {
+    "local": "/assets/source/memb91-6353d48005.jpg",
+    "bytes": 8533
+  },
+  "http://altaybio.ru/images/articles_img/memb92.jpg": {
+    "local": "/assets/source/memb92-0537ec156e.jpg",
+    "bytes": 8717
+  },
+  "http://altaybio.ru/images/articles_img/memb93.jpg": {
+    "local": "/assets/source/memb93-f75e1c4c16.jpg",
+    "bytes": 7300
+  },
+  "http://altaybio.ru/images/articles_img/mk.jpg": {
+    "local": "/assets/source/mk-ff6632b84f.jpg",
+    "bytes": 56051
+  },
+  "http://altaybio.ru/images/articles_img/mnpk1.jpg": {
+    "local": "/assets/source/mnpk1-8dfb79951d.jpg",
+    "bytes": 18332
+  },
+  "http://altaybio.ru/images/articles_img/mnpk2.jpg": {
+    "local": "/assets/source/mnpk2-311927bdab.jpg",
+    "bytes": 25824
+  },
+  "http://altaybio.ru/images/articles_img/nov1.jpg": {
+    "local": "/assets/source/nov1-253de93695.jpg",
+    "bytes": 34190
+  },
+  "http://altaybio.ru/images/articles_img/nov2.jpg": {
+    "local": "/assets/source/nov2-f49cc8afd4.jpg",
+    "bytes": 50721
+  },
+  "http://altaybio.ru/images/articles_img/nov3.jpg": {
+    "local": "/assets/source/nov3-07caa7fe80.jpg",
+    "bytes": 57295
+  },
+  "http://altaybio.ru/images/articles_img/nov4.jpg": {
+    "local": "/assets/source/nov4-224e704ac4.jpg",
+    "bytes": 34163
+  },
+  "http://altaybio.ru/images/articles_img/nov5.jpg": {
+    "local": "/assets/source/nov5-a63f49017b.jpg",
+    "bytes": 35969
+  },
+  "http://altaybio.ru/images/articles_img/olen_kongr1.JPG": {
+    "local": "/assets/source/olen_kongr1-d960a5e326.jpg",
+    "bytes": 83399
+  },
+  "http://altaybio.ru/images/articles_img/olen_kongr2.JPG": {
+    "local": "/assets/source/olen_kongr2-5b449d42b0.jpg",
+    "bytes": 68168
+  },
+  "http://altaybio.ru/images/articles_img/openbio1.jpg": {
+    "local": "/assets/source/openbio1-220ebf5cc1.jpg",
+    "bytes": 57243
+  },
+  "http://altaybio.ru/images/articles_img/prod1.jpg": {
+    "local": "/assets/source/prod1-4efe4a6a35.jpg",
+    "bytes": 32730
+  },
+  "http://altaybio.ru/images/articles_img/prod2.jpg": {
+    "local": "/assets/source/prod2-d1ba916966.jpg",
+    "bytes": 57871
+  },
+  "http://altaybio.ru/images/articles_img/sanator_table.JPG": {
+    "local": "/assets/source/sanator_table-838102d29e.jpg",
+    "bytes": 70548
+  },
+  "http://altaybio.ru/images/articles_img/sanator_table2.JPG": {
+    "local": "/assets/source/sanator_table2-d15a28daff.jpg",
+    "bytes": 71039
+  },
+  "http://altaybio.ru/images/articles_img/simple/foto_01.jpg": {
+    "local": "/assets/source/foto_01-e225319649.jpg",
+    "bytes": 11813
+  },
+  "http://altaybio.ru/images/articles_img/simple/foto_02.jpg": {
+    "local": "/assets/source/foto_02-ffbe3a945c.jpg",
+    "bytes": 9115
+  },
+  "http://altaybio.ru/images/articles_img/simple/foto_1.jpg": {
+    "local": "/assets/source/foto_1-1c64771881.jpg",
+    "bytes": 12431
+  },
+  "http://altaybio.ru/images/articles_img/simple/foto_10.jpg": {
+    "local": "/assets/source/foto_10-19c909f0d2.jpg",
+    "bytes": 10736
+  },
+  "http://altaybio.ru/images/articles_img/simple/foto_11.jpg": {
+    "local": "/assets/source/foto_11-54e4248ceb.jpg",
+    "bytes": 15037
+  },
+  "http://altaybio.ru/images/articles_img/simple/foto_12.jpg": {
+    "local": "/assets/source/foto_12-dd4f37ad27.jpg",
+    "bytes": 12785
+  },
+  "http://altaybio.ru/images/articles_img/simple/foto_2.jpg": {
+    "local": "/assets/source/foto_2-e7d64396a5.jpg",
+    "bytes": 9094
+  },
+  "http://altaybio.ru/images/articles_img/simple/foto_3.jpg": {
+    "local": "/assets/source/foto_3-7b06b607c7.jpg",
+    "bytes": 11947
+  },
+  "http://altaybio.ru/images/articles_img/simple/foto_4.jpg": {
+    "local": "/assets/source/foto_4-8fed6eb925.jpg",
+    "bytes": 11687
+  },
+  "http://altaybio.ru/images/articles_img/simple/foto_5.jpg": {
+    "local": "/assets/source/foto_5-fe8863a714.jpg",
+    "bytes": 10153
+  },
+  "http://altaybio.ru/images/articles_img/simple/foto_6.jpg": {
+    "local": "/assets/source/foto_6-b15fc66c96.jpg",
+    "bytes": 10059
+  },
+  "http://altaybio.ru/images/articles_img/simple/foto_7.jpg": {
+    "local": "/assets/source/foto_7-d565b1ef9e.jpg",
+    "bytes": 12004
+  },
+  "http://altaybio.ru/images/articles_img/simple/foto_8.jpg": {
+    "local": "/assets/source/foto_8-2e030d21b2.jpg",
+    "bytes": 8398
+  },
+  "http://altaybio.ru/images/articles_img/simple/foto_9.jpg": {
+    "local": "/assets/source/foto_9-104622de32.jpg",
+    "bytes": 11519
+  },
+  "http://altaybio.ru/images/articles_img/simple/simplelogo.jpg": {
+    "local": "/assets/source/simplelogo-07a9bf5fd3.jpg",
+    "bytes": 14140
+  },
+  "http://altaybio.ru/images/articles_img/simple/simpler.jpg": {
+    "local": "/assets/source/simpler-453db49752.jpg",
+    "bytes": 8475
+  },
+  "http://altaybio.ru/images/articles_img/sky_2049_.jpg": {
+    "local": "/assets/source/sky_2049_-d5113dc1a6.jpg",
+    "bytes": 37167
+  },
+  "http://altaybio.ru/images/articles_img/st11.jpg": {
+    "local": "/assets/source/st11-7624221577.jpg",
+    "bytes": 7947
+  },
+  "http://altaybio.ru/images/articles_img/tenaev.jpg": {
+    "local": "/assets/source/tenaev-09f29a9d5f.jpg",
+    "bytes": 8911
+  },
+  "http://altaybio.ru/images/articles_img/trening1.JPG": {
+    "local": "/assets/source/trening1-f35d48ae54.jpg",
+    "bytes": 58815
+  },
+  "http://altaybio.ru/images/articles_img/trening2.JPG": {
+    "local": "/assets/source/trening2-5bf29d81d1.jpg",
+    "bytes": 66452
+  },
+  "http://altaybio.ru/images/articles_img/ug1.jpg": {
+    "local": "/assets/source/ug1-5616c49340.jpg",
+    "bytes": 14387
+  },
+  "http://altaybio.ru/images/articles_img/ug2.jpg": {
+    "local": "/assets/source/ug2-1da7790b5f.jpg",
+    "bytes": 33470
+  },
+  "http://altaybio.ru/images/articles_img/ug3.jpg": {
+    "local": "/assets/source/ug3-a70651d97d.jpg",
+    "bytes": 49770
+  },
+  "http://altaybio.ru/images/articles_img/ug4.jpg": {
+    "local": "/assets/source/ug4-85cced813a.jpg",
+    "bytes": 34130
+  },
+  "http://altaybio.ru/images/articles_img/visterra1.jpg": {
+    "local": "/assets/source/visterra1-298c088833.jpg",
+    "bytes": 121531
+  },
+  "http://altaybio.ru/images/articles_img/visterra2.jpg": {
+    "local": "/assets/source/visterra2-4165d145a4.jpg",
+    "bytes": 138767
+  },
+  "http://altaybio.ru/images/articles_img/visterra3.jpg": {
+    "local": "/assets/source/visterra3-35afb016e3.jpg",
+    "bytes": 137523
+  },
+  "http://altaybio.ru/images/articles_img/visterradir.jpg": {
+    "local": "/assets/source/visterradir-8c1fc05a69.jpg",
+    "bytes": 6555
+  },
+  "http://altaybio.ru/images/articles_img/visterralogo.jpg": {
+    "local": "/assets/source/visterralogo-2aca8251ce.jpg",
+    "bytes": 11058
+  },
+  "http://altaybio.ru/images/articles_img/zd161.jpg": {
+    "local": "/assets/source/zd161-d422377a3f.jpg",
+    "bytes": 47477
+  },
+  "http://altaybio.ru/images/articles_img/zd162.jpg": {
+    "local": "/assets/source/zd162-f3a5d3a08b.jpg",
+    "bytes": 52313
+  },
+  "http://altaybio.ru/images/articles_img/zd163.jpg": {
+    "local": "/assets/source/zd163-fbedd776d8.jpg",
+    "bytes": 47180
+  },
+  "http://altaybio.ru/images/articles_img/zs-dir.jpg": {
+    "local": "/assets/source/zs-dir-abba78845b.jpg",
+    "bytes": 25900
+  },
+  "http://altaybio.ru/images/articles_img/zs-logo.jpg": {
+    "local": "/assets/source/zs-logo-21197cd7a3.jpg",
+    "bytes": 28072
+  },
+  "http://altaybio.ru/images/articles_img/zs-pr1.jpg": {
+    "local": "/assets/source/zs-pr1-deae56b649.jpg",
+    "bytes": 22278
+  },
+  "http://altaybio.ru/images/articles_img/zs-pr2.jpg": {
+    "local": "/assets/source/zs-pr2-b0ce502500.jpg",
+    "bytes": 10484
+  },
+  "http://altaybio.ru/images/articles_img/zs-pr3.jpg": {
+    "local": "/assets/source/zs-pr3-8e1f5f6e93.jpg",
+    "bytes": 7560
+  },
+  "http://altaybio.ru/images/articles_img/zs-pr4.jpg": {
+    "local": "/assets/source/zs-pr4-ce0c5f6916.jpg",
+    "bytes": 21006
+  },
+  "http://altaybio.ru/images/articles_img/zs-pr5.jpg": {
+    "local": "/assets/source/zs-pr5-ec44c4c373.jpg",
+    "bytes": 11756
+  },
+  "http://altaybio.ru/images/articles_img/zsemya/JELLY_BAR_1.jpg": {
+    "local": "/assets/source/JELLY_BAR_1-c09c90734b.jpg",
+    "bytes": 16548
+  },
+  "http://altaybio.ru/images/articles_img/zsemya/JELLY_BAR_2.jpg": {
+    "local": "/assets/source/JELLY_BAR_2-adf69b7b8b.jpg",
+    "bytes": 17839
+  },
+  "http://altaybio.ru/images/articles_img/zsemya/JELLY_BAR_3.jpg": {
+    "local": "/assets/source/JELLY_BAR_3-79569cd0a5.jpg",
+    "bytes": 18615
+  },
+  "http://altaybio.ru/images/articles_img/zsemya/JELLY_BAR_4.jpg": {
+    "local": "/assets/source/JELLY_BAR_4-1990175994.jpg",
+    "bytes": 17076
+  },
+  "http://altaybio.ru/images/articles_img/zsemya/JELLY_BAR_5.jpg": {
+    "local": "/assets/source/JELLY_BAR_5-e9932e7575.jpg",
+    "bytes": 15559
+  },
+  "http://altaybio.ru/images/articles_img/zsemya/Phitobiom_1.png": {
+    "local": "/assets/source/Phitobiom_1-708fddcd37.png",
+    "bytes": 24059
+  },
+  "http://altaybio.ru/images/articles_img/zsemya/Phitobiom_2.png": {
+    "local": "/assets/source/Phitobiom_2-6d49b9702b.png",
+    "bytes": 21117
+  },
+  "http://altaybio.ru/images/articles_img/zsemya/Phitobiom_3.png": {
+    "local": "/assets/source/Phitobiom_3-6219bf78ce.png",
+    "bytes": 93852
+  },
+  "http://altaybio.ru/images/articles_img/zsemya/Phitobiom_4.png": {
+    "local": "/assets/source/Phitobiom_4-0a3398dba5.png",
+    "bytes": 38960
+  },
+  "http://altaybio.ru/images/articles_img/zsemya/Phitobiom_5.png": {
+    "local": "/assets/source/Phitobiom_5-0633a593ae.png",
+    "bytes": 52487
+  },
+  "http://altaybio.ru/images/articles_img/zsemya/gavrilenko.jpeg": {
+    "local": "/assets/source/gavrilenko-4ce047dbd3.jpeg",
+    "bytes": 11692
+  },
+  "http://altaybio.ru/images/articles_img/zsemya/logo.jpg": {
+    "local": "/assets/source/logo-7a928880ed.jpg",
+    "bytes": 59877
+  },
+  "http://altaybio.ru/images/malavit1.jpg": {
+    "local": "/assets/source/malavit1-9a96b9160e.jpg",
+    "bytes": 15993
+  },
+  "http://altaybio.ru/images/news/ekb1.jpg": {
+    "local": "/assets/source/ekb1-193cc92120.jpg",
+    "bytes": 200683
+  },
+  "http://altaybio.ru/images/news/ekb2.jpg": {
+    "local": "/assets/source/ekb2-ead6310f91.jpg",
+    "bytes": 138557
+  },
+  "http://altaybio.ru/images/news/ekb3.jpg": {
+    "local": "/assets/source/ekb3-c0bd171190.jpg",
+    "bytes": 142345
+  },
+  "http://altaybio.ru/images/news/ekb4.jpg": {
+    "local": "/assets/source/ekb4-e5a3dcf5a3.jpg",
+    "bytes": 102122
+  },
+  "http://altaybio.ru/images/news/ekb5.jpg": {
+    "local": "/assets/source/ekb5-c6f7e73ad8.jpg",
+    "bytes": 180932
+  },
+  "http://altaybio.ru/images/novosti/20210128_1.jpg": {
+    "local": "/assets/source/20210128_1-f95846a0f3.jpg",
+    "bytes": 55762
+  },
+  "http://altaybio.ru/images/novosti/20210128_2.jpg": {
+    "local": "/assets/source/20210128_2-b63c2ecd21.jpg",
+    "bytes": 60067
+  },
+  "http://altaybio.ru/images/novosti/20210128_3.jpg": {
+    "local": "/assets/source/20210128_3-6b2ce1d895.jpg",
+    "bytes": 48558
+  },
+  "http://altaybio.ru/images/novosti/20210128_4.jpg": {
+    "local": "/assets/source/20210128_4-d05fc40bb4.jpg",
+    "bytes": 54054
+  },
+  "http://altaybio.ru/images/novosti/AYA/1.jpg": {
+    "local": "/assets/source/1-0961df8986.jpg",
+    "bytes": 64640
+  },
+  "http://altaybio.ru/images/novosti/AYA/2.jpg": {
+    "local": "/assets/source/2-d9ef2b2459.jpg",
+    "bytes": 71703
+  },
+  "http://altaybio.ru/images/novosti/AYA/3.jpg": {
+    "local": "/assets/source/3-bd88818c44.jpg",
+    "bytes": 65136
+  },
+  "http://altaybio.ru/images/novosti/AYA/4.jpg": {
+    "local": "/assets/source/4-478d4b70d9.jpg",
+    "bytes": 63449
+  },
+  "http://altaybio.ru/images/novosti/AYA/maral.jpg": {
+    "local": "/assets/source/maral-3d0b717aab.jpg",
+    "bytes": 78539
+  },
+  "http://altaybio.ru/images/novosti/AYA/vse.jpg": {
+    "local": "/assets/source/vse-df5c071cea.jpg",
+    "bytes": 366163
+  },
+  "http://altaybio.ru/images/novosti/EK/1.jpg": {
+    "local": "/assets/source/1-62cf3efd49.jpg",
+    "bytes": 60241
+  },
+  "http://altaybio.ru/images/novosti/EK/2.jpg": {
+    "local": "/assets/source/2-466cd53470.jpg",
+    "bytes": 57963
+  },
+  "http://altaybio.ru/images/novosti/EK/3.jpg": {
+    "local": "/assets/source/3-31a0fc8abe.jpg",
+    "bytes": 55271
+  },
+  "http://altaybio.ru/images/novosti/GD/1.jpg": {
+    "local": "/assets/source/1-8388e95538.jpg",
+    "bytes": 98353
+  },
+  "http://altaybio.ru/images/novosti/GD/2.jpg": {
+    "local": "/assets/source/2-170ee1374f.jpg",
+    "bytes": 93672
+  },
+  "http://altaybio.ru/images/novosti/GD/3.jpg": {
+    "local": "/assets/source/3-4d715610b0.jpg",
+    "bytes": 98602
+  },
+  "http://altaybio.ru/images/novosti/abfc.jpg": {
+    "local": "/assets/source/abfc-77ed492ecb.jpg",
+    "bytes": 34028
+  },
+  "http://altaybio.ru/images/novosti/abfc3.jpg": {
+    "local": "/assets/source/abfc3-08359b65d8.jpg",
+    "bytes": 32701
+  },
+  "http://altaybio.ru/images/novosti/altamar.jpg": {
+    "local": "/assets/source/altamar-fe7cc8ec7f.jpg",
+    "bytes": 37124
+  },
+  "http://altaybio.ru/images/novosti/altaytur/otkr.jpg": {
+    "local": "/assets/source/otkr-f050a9be9b.jpg",
+    "bytes": 38258
+  },
+  "http://altaybio.ru/images/novosti/altaytur/sertif.jpg": {
+    "local": "/assets/source/sertif-04c81bc056.jpg",
+    "bytes": 19536
+  },
+  "http://altaybio.ru/images/novosti/altaytur/verh.jpg": {
+    "local": "/assets/source/verh-8d7a9fdcc8.jpg",
+    "bytes": 53958
+  },
+  "http://altaybio.ru/images/novosti/altayvitamin.jpg": {
+    "local": "/assets/source/altayvitamin-c07bef70ed.jpg",
+    "bytes": 33260
+  },
+  "http://altaybio.ru/images/novosti/apteca.jpg": {
+    "local": "/assets/source/apteca-5da3d959c2.jpg",
+    "bytes": 22725
+  },
+  "http://altaybio.ru/images/novosti/apteka2010/0051.jpg": {
+    "local": "/assets/source/0051-7c1dda61cf.jpg",
+    "bytes": 26764
+  },
+  "http://altaybio.ru/images/novosti/apteka2010/img_1304.jpg": {
+    "local": "/assets/source/img_1304-b99010b878.jpg",
+    "bytes": 48529
+  },
+  "http://altaybio.ru/images/novosti/apteka2010/img_1319.jpg": {
+    "local": "/assets/source/img_1319-83f771fee7.jpg",
+    "bytes": 40755
+  },
+  "http://altaybio.ru/images/novosti/apteka2010/img_1334.jpg": {
+    "local": "/assets/source/img_1334-bcaa1f7cc0.jpg",
+    "bytes": 43816
+  },
+  "http://altaybio.ru/images/novosti/apteka2010/img_1339.jpg": {
+    "local": "/assets/source/img_1339-aacf65b4cc.jpg",
+    "bytes": 39845
+  },
+  "http://altaybio.ru/images/novosti/apteka2011/1.jpg": {
+    "local": "/assets/source/1-f20fe44c22.jpg",
+    "bytes": 94749
+  },
+  "http://altaybio.ru/images/novosti/apteka2011/2.jpg": {
+    "local": "/assets/source/2-8b3dfce3c2.jpg",
+    "bytes": 35155
+  },
+  "http://altaybio.ru/images/novosti/apteka2011/3.jpg": {
+    "local": "/assets/source/3-27785a396e.jpg",
+    "bytes": 38092
+  },
+  "http://altaybio.ru/images/novosti/apteka2011/4.jpg": {
+    "local": "/assets/source/4-1d39cbffa8.jpg",
+    "bytes": 32539
+  },
+  "http://altaybio.ru/images/novosti/apteka2011/5.jpg": {
+    "local": "/assets/source/5-0825697a82.jpg",
+    "bytes": 34215
+  },
+  "http://altaybio.ru/images/novosti/apteka2012/1.jpg": {
+    "local": "/assets/source/1-e718c9fb6c.jpg",
+    "bytes": 67154
+  },
+  "http://altaybio.ru/images/novosti/apteka2012/3.jpg": {
+    "local": "/assets/source/3-01980b61c5.jpg",
+    "bytes": 44924
+  },
+  "http://altaybio.ru/images/novosti/apteka2012/4.jpg": {
+    "local": "/assets/source/4-304ef1bd87.jpg",
+    "bytes": 42209
+  },
+  "http://altaybio.ru/images/novosti/apteka2012/5.jpg": {
+    "local": "/assets/source/5-7b2e654c66.jpg",
+    "bytes": 35267
+  },
+  "http://altaybio.ru/images/novosti/apteka2013/1.jpg": {
+    "local": "/assets/source/1-d4f97a1220.jpg",
+    "bytes": 29569
+  },
+  "http://altaybio.ru/images/novosti/apteka2013/2.jpg": {
+    "local": "/assets/source/2-b4235f45ac.jpg",
+    "bytes": 98242
+  },
+  "http://altaybio.ru/images/novosti/apteka2013/4.jpg": {
+    "local": "/assets/source/4-edbab09640.jpg",
+    "bytes": 69753
+  },
+  "http://altaybio.ru/images/novosti/apteka2013/5.jpg": {
+    "local": "/assets/source/5-45e2625d6b.jpg",
+    "bytes": 74910
+  },
+  "http://altaybio.ru/images/novosti/apteka2013/6.jpg": {
+    "local": "/assets/source/6-1ae01c2ba1.jpg",
+    "bytes": 72122
+  },
+  "http://altaybio.ru/images/novosti/apteka2014/1.jpg": {
+    "local": "/assets/source/1-cf24abe3e8.jpg",
+    "bytes": 41446
+  },
+  "http://altaybio.ru/images/novosti/apteka2014/2.jpg": {
+    "local": "/assets/source/2-c811cf1598.jpg",
+    "bytes": 32326
+  },
+  "http://altaybio.ru/images/novosti/apteka2014/3.jpg": {
+    "local": "/assets/source/3-6a5223b96a.jpg",
+    "bytes": 48670
+  },
+  "http://altaybio.ru/images/novosti/apteka2014/4.jpg": {
+    "local": "/assets/source/4-cb497d099e.jpg",
+    "bytes": 54153
+  },
+  "http://altaybio.ru/images/novosti/apteka2019/apteka2019_1.jpg": {
+    "local": "/assets/source/apteka2019_1-9515adbb8f.jpg",
+    "bytes": 106478
+  },
+  "http://altaybio.ru/images/novosti/apteka2019/apteka2019_2.jpg": {
+    "local": "/assets/source/apteka2019_2-988c222698.jpg",
+    "bytes": 107280
+  },
+  "http://altaybio.ru/images/novosti/apteka2019/apteka2019_3.jpg": {
+    "local": "/assets/source/apteka2019_3-3b24d9b9aa.jpg",
+    "bytes": 108222
+  },
+  "http://altaybio.ru/images/novosti/apteka2019/apteka2019_4.jpg": {
+    "local": "/assets/source/apteka2019_4-702797f2c5.jpg",
+    "bytes": 98819
+  },
+  "http://altaybio.ru/images/novosti/apteka2019/apteka2019_5.jpg": {
+    "local": "/assets/source/apteka2019_5-bfaec89d11.jpg",
+    "bytes": 101751
+  },
+  "http://altaybio.ru/images/novosti/balzam.jpg": {
+    "local": "/assets/source/balzam-0fe552bf53.jpg",
+    "bytes": 20535
+  },
+  "http://altaybio.ru/images/novosti/belokur/1.jpg": {
+    "local": "/assets/source/1-03899bb171.jpg",
+    "bytes": 101552
+  },
+  "http://altaybio.ru/images/novosti/belokur/2.jpg": {
+    "local": "/assets/source/2-81669f34f7.jpg",
+    "bytes": 91167
+  },
+  "http://altaybio.ru/images/novosti/belousov.jpg": {
+    "local": "/assets/source/belousov-a3f80e6ed6.jpg",
+    "bytes": 54005
+  },
+  "http://altaybio.ru/images/novosti/bm23/bm231.jpg": {
+    "local": "/assets/source/bm231-26da2c3eff.jpg",
+    "bytes": 69168
+  },
+  "http://altaybio.ru/images/novosti/bm23/bm232.jpg": {
+    "local": "/assets/source/bm232-14c3435162.jpg",
+    "bytes": 77249
+  },
+  "http://altaybio.ru/images/novosti/bm23/bm233.jpg": {
+    "local": "/assets/source/bm233-9cce49ef3b.jpg",
+    "bytes": 76084
+  },
+  "http://altaybio.ru/images/novosti/bm23/bm234.jpg": {
+    "local": "/assets/source/bm234-3874158ea3.jpg",
+    "bytes": 87642
+  },
+  "http://altaybio.ru/images/novosti/bm23/bm235.jpg": {
+    "local": "/assets/source/bm235-5513553fe2.jpg",
+    "bytes": 90451
+  },
+  "http://altaybio.ru/images/novosti/bm23/bm236.jpg": {
+    "local": "/assets/source/bm236-2778cc075f.jpg",
+    "bytes": 185709
+  },
+  "http://altaybio.ru/images/novosti/bmission.jpg": {
+    "local": "/assets/source/bmission-114eb32c3f.jpg",
+    "bytes": 176459
+  },
+  "http://altaybio.ru/images/novosti/dima.jpg": {
+    "local": "/assets/source/dima-3579d41790.jpg",
+    "bytes": 34985
+  },
+  "http://altaybio.ru/images/novosti/diplom.jpg": {
+    "local": "/assets/source/diplom-658a9c9ce9.jpg",
+    "bytes": 16230
+  },
+  "http://altaybio.ru/images/novosti/evalar.jpg": {
+    "local": "/assets/source/evalar-85ee6d2dd4.jpg",
+    "bytes": 23137
+  },
+  "http://altaybio.ru/images/novosti/festival/1.jpg": {
+    "local": "/assets/source/1-09557a81c8.jpg",
+    "bytes": 39470
+  },
+  "http://altaybio.ru/images/novosti/festival/2.jpg": {
+    "local": "/assets/source/2-4bb245ed4d.jpg",
+    "bytes": 33168
+  },
+  "http://altaybio.ru/images/novosti/festival/3.jpg": {
+    "local": "/assets/source/3-d6c334449c.jpg",
+    "bytes": 35256
+  },
+  "http://altaybio.ru/images/novosti/festival/4.jpg": {
+    "local": "/assets/source/4-4b8410d355.jpg",
+    "bytes": 46274
+  },
+  "http://altaybio.ru/images/novosti/goszakaz/pir abfc.jpg": {
+    "local": "/assets/source/pir_abfc-0406033c88.jpg",
+    "bytes": 46907
+  },
+  "http://altaybio.ru/images/novosti/goszakaz/piramida abfc.jpg": {
+    "local": "/assets/source/piramida_abfc-714ac27702.jpg",
+    "bytes": 52436
+  },
+  "http://altaybio.ru/images/novosti/goszakaz/piramida kray.jpg": {
+    "local": "/assets/source/piramida_kray-8ad76da0a7.jpg",
+    "bytes": 52937
+  },
+  "http://altaybio.ru/images/novosti/goszakaz/sobyanin.jpg": {
+    "local": "/assets/source/sobyanin-c247e03767.jpg",
+    "bytes": 46612
+  },
+  "http://altaybio.ru/images/novosti/goszakaz/vechorki.jpg": {
+    "local": "/assets/source/vechorki-3595368289.jpg",
+    "bytes": 45207
+  },
+  "http://altaybio.ru/images/novosti/goszakaz2012/1.jpg": {
+    "local": "/assets/source/1-d7af836f5f.jpg",
+    "bytes": 40168
+  },
+  "http://altaybio.ru/images/novosti/goszakaz2012/2.jpg": {
+    "local": "/assets/source/2-2011bd3003.jpg",
+    "bytes": 85193
+  },
+  "http://altaybio.ru/images/novosti/goszakaz2012/3.jpg": {
+    "local": "/assets/source/3-98941b9a8a.jpg",
+    "bytes": 117887
+  },
+  "http://altaybio.ru/images/novosti/goszakaz2014/1.jpg": {
+    "local": "/assets/source/1-f7719e1709.jpg",
+    "bytes": 31191
+  },
+  "http://altaybio.ru/images/novosti/goszakaz2014/2.jpg": {
+    "local": "/assets/source/2-96651141c1.jpg",
+    "bytes": 47187
+  },
+  "http://altaybio.ru/images/novosti/goszakaz2014/3.jpg": {
+    "local": "/assets/source/3-a3e8138b5c.jpg",
+    "bytes": 46685
+  },
+  "http://altaybio.ru/images/novosti/goszakaz2014/4.jpg": {
+    "local": "/assets/source/4-b2a4c8cf9a.jpg",
+    "bytes": 48269
+  },
+  "http://altaybio.ru/images/novosti/goszakaz2014/5.jpg": {
+    "local": "/assets/source/5-ea217067fd.jpg",
+    "bytes": 44149
+  },
+  "http://altaybio.ru/images/novosti/gubernator.jpg": {
+    "local": "/assets/source/gubernator-e78977ed62.jpg",
+    "bytes": 31837
+  },
+  "http://altaybio.ru/images/novosti/gubernator1.jpg": {
+    "local": "/assets/source/gubernator1-c14fc60da7.jpg",
+    "bytes": 20857
+  },
+  "http://altaybio.ru/images/novosti/gubernator2.jpg": {
+    "local": "/assets/source/gubernator2-dce5a90247.jpg",
+    "bytes": 35478
+  },
+  "http://altaybio.ru/images/novosti/italy.jpg": {
+    "local": "/assets/source/italy-9a8a44fe02.jpg",
+    "bytes": 27436
+  },
+  "http://altaybio.ru/images/novosti/kadr/1.jpg": {
+    "local": "/assets/source/1-25441dcaee.jpg",
+    "bytes": 66336
+  },
+  "http://altaybio.ru/images/novosti/kazahi/1.jpg": {
+    "local": "/assets/source/1-22470e0db2.jpg",
+    "bytes": 93458
+  },
+  "http://altaybio.ru/images/novosti/kazahi/2.jpg": {
+    "local": "/assets/source/2-f793b7d137.jpg",
+    "bytes": 87598
+  },
+  "http://altaybio.ru/images/novosti/kazahi/3.jpg": {
+    "local": "/assets/source/3-81df1deb0b.jpg",
+    "bytes": 80788
+  },
+  "http://altaybio.ru/images/novosti/kazaki.jpg": {
+    "local": "/assets/source/kazaki-6f286e8419.jpg",
+    "bytes": 36605
+  },
+  "http://altaybio.ru/images/novosti/kit k.jpg": {
+    "local": "/assets/source/kit_k-684b4d2cc8.jpg",
+    "bytes": 43403
+  },
+  "http://altaybio.ru/images/novosti/konferen2011/1.jpg": {
+    "local": "/assets/source/1-ab002f158b.jpg",
+    "bytes": 89260
+  },
+  "http://altaybio.ru/images/novosti/konferen2011/2.jpg": {
+    "local": "/assets/source/2-572942d628.jpg",
+    "bytes": 71439
+  },
+  "http://altaybio.ru/images/novosti/konferen2011/3.jpg": {
+    "local": "/assets/source/3-e52e6ec347.jpg",
+    "bytes": 45865
+  },
+  "http://altaybio.ru/images/novosti/konferen2011/4.jpg": {
+    "local": "/assets/source/4-57816f6555.jpg",
+    "bytes": 49364
+  },
+  "http://altaybio.ru/images/novosti/konferen2011/5.jpg": {
+    "local": "/assets/source/5-218ace231a.jpg",
+    "bytes": 45853
+  },
+  "http://altaybio.ru/images/novosti/konferen2011/abfc.jpg": {
+    "local": "/assets/source/abfc-3c3834da5c.jpg",
+    "bytes": 10784
+  },
+  "http://altaybio.ru/images/novosti/konferen2011/biysk.jpg": {
+    "local": "/assets/source/biysk-0f2ec4b407.jpg",
+    "bytes": 8802
+  },
+  "http://altaybio.ru/images/novosti/konferen2011/kray.png": {
+    "local": "/assets/source/kray-80d2d96a06.png",
+    "bytes": 81360
+  },
+  "http://altaybio.ru/images/novosti/konferen2011/maral.jpg": {
+    "local": "/assets/source/maral-4b6547dcc8.jpg",
+    "bytes": 44358
+  },
+  "http://altaybio.ru/images/novosti/konferents2010/degust.jpg": {
+    "local": "/assets/source/degust-edb7695974.jpg",
+    "bytes": 33865
+  },
+  "http://altaybio.ru/images/novosti/konferents2010/kond.jpg": {
+    "local": "/assets/source/kond-904e3ff4fe.jpg",
+    "bytes": 35093
+  },
+  "http://altaybio.ru/images/novosti/konferents2010/vistavka.jpg": {
+    "local": "/assets/source/vistavka-7d14a9aff7.jpg",
+    "bytes": 34688
+  },
+  "http://altaybio.ru/images/novosti/konferents2010/zal.jpg": {
+    "local": "/assets/source/zal-25d86ddbd9.jpg",
+    "bytes": 42479
+  },
+  "http://altaybio.ru/images/novosti/kongress2011/1.jpg": {
+    "local": "/assets/source/1-036d165ea4.jpg",
+    "bytes": 36513
+  },
+  "http://altaybio.ru/images/novosti/kongress2011/3.jpg": {
+    "local": "/assets/source/3-d267ad9ae5.jpg",
+    "bytes": 78898
+  },
+  "http://altaybio.ru/images/novosti/kongress2011/4.jpg": {
+    "local": "/assets/source/4-bbcd4c3d23.jpg",
+    "bytes": 25311
+  },
+  "http://altaybio.ru/images/novosti/kongress2014/1.jpg": {
+    "local": "/assets/source/1-766a4bd4c1.jpg",
+    "bytes": 1921934
+  },
+  "http://altaybio.ru/images/novosti/kongress2014/2.jpg": {
+    "local": "/assets/source/2-c4c81670e4.jpg",
+    "bytes": 2869929
+  },
+  "http://altaybio.ru/images/novosti/kongress2014/3.jpg": {
+    "local": "/assets/source/3-487f91ced0.jpg",
+    "bytes": 3324128
+  },
+  "http://altaybio.ru/images/novosti/kongress2014/4.jpg": {
+    "local": "/assets/source/4-794daae6fe.jpg",
+    "bytes": 2903045
+  },
+  "http://altaybio.ru/images/novosti/kongress2014/5.jpg": {
+    "local": "/assets/source/5-ed9e184eef.jpg",
+    "bytes": 3227528
+  },
+  "http://altaybio.ru/images/novosti/kriz.jpg": {
+    "local": "/assets/source/kriz-f57712e692.jpg",
+    "bytes": 57698
+  },
+  "http://altaybio.ru/images/novosti/kspants1.jpg": {
+    "local": "/assets/source/kspants1-c7ade258a3.jpg",
+    "bytes": 110291
+  },
+  "http://altaybio.ru/images/novosti/kspants2.jpg": {
+    "local": "/assets/source/kspants2-be1658d206.jpg",
+    "bytes": 122218
+  },
+  "http://altaybio.ru/images/novosti/kspants3.jpg": {
+    "local": "/assets/source/kspants3-96f5eb8141.jpg",
+    "bytes": 115673
+  },
+  "http://altaybio.ru/images/novosti/man2011/altamar2.jpg": {
+    "local": "/assets/source/altamar2-e127988c1b.jpg",
+    "bytes": 45480
+  },
+  "http://altaybio.ru/images/novosti/man2011/bochka.jpg": {
+    "local": "/assets/source/bochka-e9246fad2d.jpg",
+    "bytes": 34814
+  },
+  "http://altaybio.ru/images/novosti/man2011/dima2.bmp": {
+    "local": "/assets/source/dima2-8f443050fc.bmp",
+    "bytes": 176958
+  },
+  "http://altaybio.ru/images/novosti/man2011/otkrbarn.jpg": {
+    "local": "/assets/source/otkrbarn-69634cf442.jpg",
+    "bytes": 72435
+  },
+  "http://altaybio.ru/images/novosti/man2011/pantoproekt.jpg": {
+    "local": "/assets/source/pantoproekt-0d7431a0d4.jpg",
+    "bytes": 41501
+  },
+  "http://altaybio.ru/images/novosti/man2011/prod.jpg": {
+    "local": "/assets/source/prod-8049d7adbc.jpg",
+    "bytes": 44891
+  },
+  "http://altaybio.ru/images/novosti/man2011/stolbarn.jpg": {
+    "local": "/assets/source/stolbarn-cbcc2137ba.jpg",
+    "bytes": 41339
+  },
+  "http://altaybio.ru/images/novosti/man2011/sverhu.jpg": {
+    "local": "/assets/source/sverhu-c3986d4120.jpg",
+    "bytes": 100938
+  },
+  "http://altaybio.ru/images/novosti/mf.jpg": {
+    "local": "/assets/source/mf-dda90bf072.jpg",
+    "bytes": 39168
+  },
+  "http://altaybio.ru/images/novosti/ministr.jpg": {
+    "local": "/assets/source/ministr-6de53e331a.jpg",
+    "bytes": 40458
+  },
+  "http://altaybio.ru/images/novosti/ministr/1.jpg": {
+    "local": "/assets/source/1-bafa10542d.jpg",
+    "bytes": 74181
+  },
+  "http://altaybio.ru/images/novosti/ministr/2.jpg": {
+    "local": "/assets/source/2-a4eea69b05.jpg",
+    "bytes": 62756
+  },
+  "http://altaybio.ru/images/novosti/ministr/3.jpg": {
+    "local": "/assets/source/3-6a61c79ba2.jpg",
+    "bytes": 72420
+  },
+  "http://altaybio.ru/images/novosti/nagrada/medal.jpg": {
+    "local": "/assets/source/medal-c4885e9375.jpg",
+    "bytes": 31292
+  },
+  "http://altaybio.ru/images/novosti/nagrada/pismo.jpg": {
+    "local": "/assets/source/pismo-fe77ad7846.jpg",
+    "bytes": 34970
+  },
+  "http://altaybio.ru/images/novosti/nagrada/zal1.bmp": {
+    "local": "/assets/source/zal1-8bd56578f6.bmp",
+    "bytes": 69654
+  },
+  "http://altaybio.ru/images/novosti/november2012/1.jpg": {
+    "local": "/assets/source/1-e062da2d34.jpg",
+    "bytes": 89631
+  },
+  "http://altaybio.ru/images/novosti/november2012/2.jpg": {
+    "local": "/assets/source/2-99c62276b1.jpg",
+    "bytes": 79845
+  },
+  "http://altaybio.ru/images/novosti/november2012/3.jpg": {
+    "local": "/assets/source/3-93a26e41c5.jpg",
+    "bytes": 89161
+  },
+  "http://altaybio.ru/images/novosti/november2012/5.jpg": {
+    "local": "/assets/source/5-3833a58db2.jpg",
+    "bytes": 51637
+  },
+  "http://altaybio.ru/images/novosti/november2012/6.jpg": {
+    "local": "/assets/source/6-8e339fff0c.jpg",
+    "bytes": 50058
+  },
+  "http://altaybio.ru/images/novosti/november2012/7.jpg": {
+    "local": "/assets/source/7-978ae0c55e.jpg",
+    "bytes": 23819
+  },
+  "http://altaybio.ru/images/novosti/novost1.jpg": {
+    "local": "/assets/source/novost1-a5e9eb78c2.jpg",
+    "bytes": 75126
+  },
+  "http://altaybio.ru/images/novosti/novost21.jpg": {
+    "local": "/assets/source/novost21-c0fda7dbf4.jpg",
+    "bytes": 56761
+  },
+  "http://altaybio.ru/images/novosti/novost22.jpg": {
+    "local": "/assets/source/novost22-b00f16e0e7.jpg",
+    "bytes": 51793
+  },
+  "http://altaybio.ru/images/novosti/novost23.jpg": {
+    "local": "/assets/source/novost23-6be97f3fbb.jpg",
+    "bytes": 51462
+  },
+  "http://altaybio.ru/images/novosti/novost31.jpg": {
+    "local": "/assets/source/novost31-5e1c4f8314.jpg",
+    "bytes": 70884
+  },
+  "http://altaybio.ru/images/novosti/novost32.jpg": {
+    "local": "/assets/source/novost32-e3b98a14b7.jpg",
+    "bytes": 49752
+  },
+  "http://altaybio.ru/images/novosti/novost33.jpg": {
+    "local": "/assets/source/novost33-7e615fe4db.jpg",
+    "bytes": 45922
+  },
+  "http://altaybio.ru/images/novosti/obchay.jpg": {
+    "local": "/assets/source/obchay-7192a18b05.jpg",
+    "bytes": 32087
+  },
+  "http://altaybio.ru/images/novosti/obchiy.jpg": {
+    "local": "/assets/source/obchiy-ef8b4decec.jpg",
+    "bytes": 26147
+  },
+  "http://altaybio.ru/images/novosti/otcr.jpg": {
+    "local": "/assets/source/otcr-3d4064fb5c.jpg",
+    "bytes": 32563
+  },
+  "http://altaybio.ru/images/novosti/otkritie k.jpg": {
+    "local": "/assets/source/otkritie_k-5ef3283a2f.jpg",
+    "bytes": 34812
+  },
+  "http://altaybio.ru/images/novosti/otkritie.jpg": {
+    "local": "/assets/source/otkritie-9354d2fa66.jpg",
+    "bytes": 27645
+  },
+  "http://altaybio.ru/images/novosti/pant.jpg": {
+    "local": "/assets/source/pant-31f684b8ea.jpg",
+    "bytes": 8913
+  },
+  "http://altaybio.ru/images/novosti/plato/1.jpg": {
+    "local": "/assets/source/1-cebc0cc19d.jpg",
+    "bytes": 60490
+  },
+  "http://altaybio.ru/images/novosti/plato/2.jpg": {
+    "local": "/assets/source/2-1bb03a48c9.jpg",
+    "bytes": 56988
+  },
+  "http://altaybio.ru/images/novosti/plato/3.jpg": {
+    "local": "/assets/source/3-23db0407f6.jpg",
+    "bytes": 60276
+  },
+  "http://altaybio.ru/images/novosti/pressa/2 linii.jpg": {
+    "local": "/assets/source/2_linii-b7aecf525e.jpg",
+    "bytes": 46364
+  },
+  "http://altaybio.ru/images/novosti/pressa/altamar.jpg": {
+    "local": "/assets/source/altamar-2d09f433be.jpg",
+    "bytes": 61089
+  },
+  "http://altaybio.ru/images/novosti/pressa/altayvit.jpg": {
+    "local": "/assets/source/altayvit-60e8117d4a.jpg",
+    "bytes": 36578
+  },
+  "http://altaybio.ru/images/novosti/pressa/obchay.jpg": {
+    "local": "/assets/source/obchay-613a988d20.jpg",
+    "bytes": 38716
+  },
+  "http://altaybio.ru/images/novosti/pressa/pantopr.jpg": {
+    "local": "/assets/source/pantopr-4f7bc8076c.jpg",
+    "bytes": 45205
+  },
+  "http://altaybio.ru/images/novosti/pressa/torg.jpg": {
+    "local": "/assets/source/torg-d05d3aa75e.jpg",
+    "bytes": 44241
+  },
+  "http://altaybio.ru/images/novosti/probeg/1.jpg": {
+    "local": "/assets/source/1-c711f396cd.jpg",
+    "bytes": 85273
+  },
+  "http://altaybio.ru/images/novosti/probeg/2.jpg": {
+    "local": "/assets/source/2-7849e1c69f.jpg",
+    "bytes": 97646
+  },
+  "http://altaybio.ru/images/novosti/probeg/3.jpg": {
+    "local": "/assets/source/3-ddf7065fc0.jpg",
+    "bytes": 89391
+  },
+  "http://altaybio.ru/images/novosti/probeg/4.jpg": {
+    "local": "/assets/source/4-5a71db5a92.jpg",
+    "bytes": 82382
+  },
+  "http://altaybio.ru/images/novosti/puchino/1.jpg": {
+    "local": "/assets/source/1-999a288434.jpg",
+    "bytes": 46817
+  },
+  "http://altaybio.ru/images/novosti/puchino/2.jpg": {
+    "local": "/assets/source/2-9df960b50b.jpg",
+    "bytes": 39250
+  },
+  "http://altaybio.ru/images/novosti/puchino/3.jpg": {
+    "local": "/assets/source/3-b4ce51c5e2.jpg",
+    "bytes": 27388
+  },
+  "http://altaybio.ru/images/novosti/puchino/4.jpg": {
+    "local": "/assets/source/4-7cd6c55bbe.jpg",
+    "bytes": 34935
+  },
+  "http://altaybio.ru/images/novosti/roundtable.jpg": {
+    "local": "/assets/source/roundtable-aa3b0b46bb.jpg",
+    "bytes": 80978
+  },
+  "http://altaybio.ru/images/novosti/sochi2011/altamar.jpg": {
+    "local": "/assets/source/altamar-932da27d3b.jpg",
+    "bytes": 36014
+  },
+  "http://altaybio.ru/images/novosti/sochi2011/evalar.jpg": {
+    "local": "/assets/source/evalar-5b2f273ad8.jpg",
+    "bytes": 49797
+  },
+  "http://altaybio.ru/images/novosti/sochi2011/malavit.jpg": {
+    "local": "/assets/source/malavit-7ffd9dd5bc.jpg",
+    "bytes": 43510
+  },
+  "http://altaybio.ru/images/novosti/sochi2011/otkr.jpg": {
+    "local": "/assets/source/otkr-1cfc0a281c.jpg",
+    "bytes": 46266
+  },
+  "http://altaybio.ru/images/novosti/sochi2011/pant.jpg": {
+    "local": "/assets/source/pant-16a546fb6c.jpg",
+    "bytes": 46216
+  },
+  "http://altaybio.ru/images/novosti/sochi2011/plakat.jpg": {
+    "local": "/assets/source/plakat-1bae5e12b8.jpg",
+    "bytes": 43007
+  },
+  "http://altaybio.ru/images/novosti/sochi2011/stend.jpg": {
+    "local": "/assets/source/stend-8ae82418f6.jpg",
+    "bytes": 46072
+  },
+  "http://altaybio.ru/images/novosti/sochi2011/yg.jpg": {
+    "local": "/assets/source/yg-b0633e6861.jpg",
+    "bytes": 43383
+  },
+  "http://altaybio.ru/images/novosti/sochi2012/1.jpg": {
+    "local": "/assets/source/1-bd320b30ba.jpg",
+    "bytes": 72639
+  },
+  "http://altaybio.ru/images/novosti/sochi2012/2.jpg": {
+    "local": "/assets/source/2-da4ce27a74.jpg",
+    "bytes": 67199
+  },
+  "http://altaybio.ru/images/novosti/sochi2012/3.jpg": {
+    "local": "/assets/source/3-eea136b791.jpg",
+    "bytes": 81438
+  },
+  "http://altaybio.ru/images/novosti/sochi2012/4.jpg": {
+    "local": "/assets/source/4-29d622b0ba.jpg",
+    "bytes": 75366
+  },
+  "http://altaybio.ru/images/novosti/sovet/1.jpg": {
+    "local": "/assets/source/1-9c5adeba10.jpg",
+    "bytes": 73765
+  },
+  "http://altaybio.ru/images/novosti/sovet/2.jpg": {
+    "local": "/assets/source/2-15bf5e1e88.jpg",
+    "bytes": 45225
+  },
+  "http://altaybio.ru/images/novosti/sovet/3.jpg": {
+    "local": "/assets/source/3-f716f42019.jpg",
+    "bytes": 43236
+  },
+  "http://altaybio.ru/images/novosti/sovet/4.jpg": {
+    "local": "/assets/source/4-aa206acb15.jpg",
+    "bytes": 38558
+  },
+  "http://altaybio.ru/images/novosti/sovet/5.jpg": {
+    "local": "/assets/source/5-44e110e896.jpg",
+    "bytes": 43580
+  },
+  "http://altaybio.ru/images/novosti/spb2019/spb1.jpg": {
+    "local": "/assets/source/spb1-99a57b4afe.jpg",
+    "bytes": 65819
+  },
+  "http://altaybio.ru/images/novosti/spb2019/spb2.jpg": {
+    "local": "/assets/source/spb2-a045048a28.jpg",
+    "bytes": 79723
+  },
+  "http://altaybio.ru/images/novosti/spb2019/spb3.jpg": {
+    "local": "/assets/source/spb3-29d7afcbad.jpg",
+    "bytes": 32819
+  },
+  "http://altaybio.ru/images/novosti/spec.jpg": {
+    "local": "/assets/source/spec-c54c99def3.jpg",
+    "bytes": 41272
+  },
+  "http://altaybio.ru/images/novosti/specialist.jpg": {
+    "local": "/assets/source/specialist-980973d685.jpg",
+    "bytes": 34408
+  },
+  "http://altaybio.ru/images/novosti/specialistk.jpg": {
+    "local": "/assets/source/specialistk-e219c5051b.jpg",
+    "bytes": 41928
+  },
+  "http://altaybio.ru/images/novosti/stavropol/s1.jpg": {
+    "local": "/assets/source/s1-2a7e153033.jpg",
+    "bytes": 100141
+  },
+  "http://altaybio.ru/images/novosti/stavropol/s2.jpg": {
+    "local": "/assets/source/s2-dc52898c73.jpg",
+    "bytes": 88434
+  },
+  "http://altaybio.ru/images/novosti/stavropol/s3.jpg": {
+    "local": "/assets/source/s3-3eeece1445.jpg",
+    "bytes": 103514
+  },
+  "http://altaybio.ru/images/novosti/stavropol/s4.jpg": {
+    "local": "/assets/source/s4-3b3a4bb329.jpg",
+    "bytes": 91960
+  },
+  "http://altaybio.ru/images/novosti/stavropol/s5.jpg": {
+    "local": "/assets/source/s5-4a6c0160be.jpg",
+    "bytes": 130775
+  },
+  "http://altaybio.ru/images/novosti/stavropol/s6.jpg": {
+    "local": "/assets/source/s6-e9a46242cc.jpg",
+    "bytes": 119763
+  },
+  "http://altaybio.ru/images/novosti/stavropol/s7.jpg": {
+    "local": "/assets/source/s7-11bc5dea9c.jpg",
+    "bytes": 112787
+  },
+  "http://altaybio.ru/images/novosti/stend 1k.jpg": {
+    "local": "/assets/source/stend_1k-089d6c2fb6.jpg",
+    "bytes": 41601
+  },
+  "http://altaybio.ru/images/novosti/stend1.jpg": {
+    "local": "/assets/source/stend1-bab3ba582d.jpg",
+    "bytes": 27476
+  },
+  "http://altaybio.ru/images/novosti/stend2.jpg": {
+    "local": "/assets/source/stend2-a34201f75a.jpg",
+    "bytes": 26803
+  },
+  "http://altaybio.ru/images/novosti/stend2k.jpg": {
+    "local": "/assets/source/stend2k-4c2e6e1e81.jpg",
+    "bytes": 39995
+  },
+  "http://altaybio.ru/images/novosti/stend3.jpg": {
+    "local": "/assets/source/stend3-a2e85d9c3f.jpg",
+    "bytes": 24827
+  },
+  "http://altaybio.ru/images/novosti/stend4.jpg": {
+    "local": "/assets/source/stend4-a3f6865254.jpg",
+    "bytes": 23955
+  },
+  "http://altaybio.ru/images/novosti/stol.jpg": {
+    "local": "/assets/source/stol-153faa1f7d.jpg",
+    "bytes": 45621
+  },
+  "http://altaybio.ru/images/novosti/stupenki.jpg": {
+    "local": "/assets/source/stupenki-9799738d37.jpg",
+    "bytes": 51112
+  },
+  "http://altaybio.ru/images/novosti/svetlogorsk/prezent.jpg": {
+    "local": "/assets/source/prezent-7c2ef4bc0c.jpg",
+    "bytes": 59056
+  },
+  "http://altaybio.ru/images/novosti/svetlogorsk/troyka.jpg": {
+    "local": "/assets/source/troyka-682da10722.jpg",
+    "bytes": 58438
+  },
+  "http://altaybio.ru/images/novosti/svetlogorsk/yantar1.jpg": {
+    "local": "/assets/source/yantar1-f82df1e482.jpg",
+    "bytes": 56932
+  },
+  "http://altaybio.ru/images/novosti/svetlogorsk/zentr.jpg": {
+    "local": "/assets/source/zentr-b696004dd7.jpg",
+    "bytes": 40613
+  },
+  "http://altaybio.ru/images/novosti/svidetelstvo.jpg": {
+    "local": "/assets/source/svidetelstvo-54622a6081.jpg",
+    "bytes": 21334
+  },
+  "http://altaybio.ru/images/novosti/tmm k.jpg": {
+    "local": "/assets/source/tmm_k-1218ffe7c9.jpg",
+    "bytes": 48722
+  },
+  "http://altaybio.ru/images/novosti/tmm.jpg": {
+    "local": "/assets/source/tmm-8969898c6e.jpg",
+    "bytes": 32595
+  },
+  "http://altaybio.ru/images/novosti/troe.jpg": {
+    "local": "/assets/source/troe-b49a7f8e1f.jpg",
+    "bytes": 48987
+  },
+  "http://altaybio.ru/images/novosti/vitamin.jpg": {
+    "local": "/assets/source/vitamin-85e2b0f94f.jpg",
+    "bytes": 50114
+  },
+  "http://altaybio.ru/images/novosti/vruchenie.jpg": {
+    "local": "/assets/source/vruchenie-36be8e4902.jpg",
+    "bytes": 28324
+  },
+  "http://altaybio.ru/images/novosti/zdrav/1.jpg": {
+    "local": "/assets/source/1-8b2dcb576d.jpg",
+    "bytes": 42874
+  },
+  "http://altaybio.ru/images/novosti/zdrav/2.jpg": {
+    "local": "/assets/source/2-8c762224d8.jpg",
+    "bytes": 34081
+  },
+  "http://altaybio.ru/images/novosti/zdrav/3.jpg": {
+    "local": "/assets/source/3-58c256a82a.jpg",
+    "bytes": 40453
+  },
+  "http://altaybio.ru/images/novosti/zdrav/4.jpg": {
+    "local": "/assets/source/4-4c54ee8b47.jpg",
+    "bytes": 37664
+  },
+  "http://altaybio.ru/images/rwer.gif": {
+    "local": "/assets/source/rwer-223e68cdcb.gif",
+    "bytes": 9140
+  },
+  "http://altaybio.ru/images/stories/csvidetelstvo2_big.jpg": {
+    "local": "/assets/source/csvidetelstvo2_big-80bce19eda.jpg",
+    "bytes": 136341
+  },
+  "http://altaybio.ru/images/stories/csvidetelstvo2_mini.jpg": {
+    "local": "/assets/source/csvidetelstvo2_mini-fc7d2ae5f1.jpg",
+    "bytes": 33423
+  },
+  "http://altaybio.ru/images/stories/csvidetelstvo_big.jpg": {
+    "local": "/assets/source/csvidetelstvo_big-2d0ba4e77a.jpg",
+    "bytes": 142655
+  },
+  "http://altaybio.ru/images/stories/csvidetelstvo_mini.jpg": {
+    "local": "/assets/source/csvidetelstvo_mini-685af6a743.jpg",
+    "bytes": 31213
+  },
+  "http://altaybio.ru/images/tmpl/logo.png": {
+    "local": "/assets/source/logo-3a77e5b559.png",
+    "bytes": 7590
+  },
+  "http://altaybio.ru/images/inter.jpg": {
+    "local": "/assets/source/inter-ed9757bcef.jpg",
+    "bytes": 143783
+  }
+}

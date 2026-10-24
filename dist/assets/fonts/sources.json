@@ -1,0 +1,61 @@
+{
+  "license": "SIL Open Font License 1.1",
+  "source": "Google Fonts",
+  "assets": [
+    {
+      "url": "https://fonts.gstatic.com/s/golostext/v7/q5uCsoe9Lv5t7Meb31EcEx58hLxR.woff2",
+      "file": "q5uCsoe9Lv5t7Meb31EcEx58hLxR.woff2",
+      "bytes": 17508
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/golostext/v7/q5uCsoe9Lv5t7Meb31EcExd8hLxR.woff2",
+      "file": "q5uCsoe9Lv5t7Meb31EcExd8hLxR.woff2",
+      "bytes": 22032
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/golostext/v7/q5uCsoe9Lv5t7Meb31EcEx18hLxR.woff2",
+      "file": "q5uCsoe9Lv5t7Meb31EcEx18hLxR.woff2",
+      "bytes": 19180
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/golostext/v7/q5uCsoe9Lv5t7Meb31EcExN8hA.woff2",
+      "file": "q5uCsoe9Lv5t7Meb31EcExN8hA.woff2",
+      "bytes": 37916
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/lora/v37/0QIvMX1D_JOuMwf7I-NP.woff2",
+      "file": "0QIvMX1D_JOuMwf7I-NP.woff2",
+      "bytes": 23636
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/lora/v37/0QIvMX1D_JOuMw77I-NP.woff2",
+      "file": "0QIvMX1D_JOuMw77I-NP.woff2",
+      "bytes": 21232
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/lora/v37/0QIvMX1D_JOuM3b7I-NP.woff2",
+      "file": "0QIvMX1D_JOuM3b7I-NP.woff2",
+      "bytes": 29240
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/lora/v37/0QIvMX1D_JOuM2T7I-NP.woff2",
+      "file": "0QIvMX1D_JOuM2T7I-NP.woff2",
+      "bytes": 17248
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/lora/v37/0QIvMX1D_JOuMwX7I-NP.woff2",
+      "file": "0QIvMX1D_JOuMwX7I-NP.woff2",
+      "bytes": 8992
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/lora/v37/0QIvMX1D_JOuMwT7I-NP.woff2",
+      "file": "0QIvMX1D_JOuMwT7I-NP.woff2",
+      "bytes": 20088
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/lora/v37/0QIvMX1D_JOuMwr7Iw.woff2",
+      "file": "0QIvMX1D_JOuMwr7Iw.woff2",
+      "bytes": 37788
+    }
+  ]
+}

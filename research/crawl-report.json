@@ -1,0 +1,21 @@
+{
+  "source": "http://altaybio.ru",
+  "started_at": "2026-10-24T13:54:57.478951+00:00",
+  "completed_at": "2026-10-24T14:03:39.687078+00:00",
+  "page_count": 157,
+  "article_count": 139,
+  "member_count": 29,
+  "news_count": 96,
+  "announcement_count": 10,
+  "asset_count": 421,
+  "asset_bytes": 33364690,
+  "errors": [],
+  "asset_errors": [],
+  "remaining_urls": [],
+  "coverage": "All publicly linked informational pages from the homepage and five main sections, including pagination. No admin/auth/search/feed/print pages.",
+  "excluded_patterns": "(?:administrator|logout|login|registration|password|reset|remind|search|task=|format=|print=|feed|tmpl=|mailto:|tel:)",
+  "max_pages": 5000,
+  "workers": 4,
+  "date_note": "Dates remain null where the source does not publish a machine-readable publication date; no dates were invented.",
+  "patch_note": "The distinct root homepage and its image were added with a targeted request after initial crawl; all five main sections were preserved without repeating the full crawl."
+}

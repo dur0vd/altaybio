@@ -1,0 +1,135 @@
+[
+  {
+    "id": "f07e7459847f",
+    "slug": "about",
+    "url": "http://altaybio.ru/index.php/about",
+    "title": "О кластере",
+    "category": "about",
+    "is_listing": false,
+    "source_id": null,
+    "date": null,
+    "excerpt": "В социально-экономической стратегии развития города Бийска на 2017-2030 годы, одним из полюсов роста является Алтайский биофармацевтический кластер (АБФК), ориентированный на решение государственной стратегической задачи импортозамещения ле",
+    "images": [
+      {
+        "src": "/assets/source/csvidetelstvo_mini-685af6a743.jpg",
+        "original": "http://altaybio.ru/images/stories/csvidetelstvo_mini.jpg",
+        "alt": ""
+      },
+      {
+        "src": "/assets/source/csvidetelstvo2_mini-fc7d2ae5f1.jpg",
+        "original": "http://altaybio.ru/images/stories/csvidetelstvo2_mini.jpg",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "id": "aa2bfe7c89df",
+    "slug": "146-biznes-missiya-ekaterinburg",
+    "url": "http://altaybio.ru/index.php/anonce/146-biznes-missiya-ekaterinburg",
+    "title": "Бизнес-миссия Екатеринбург",
+    "category": "announcements",
+    "is_listing": false,
+    "source_id": 146,
+    "date": null,
+    "excerpt": "10–11 декабря 2024 года состоится бизнес-миссия в Свердловскую область при участии предприятий НП «Алтайский биофармацевтический кластер». Целью визита является развитие межрегионального сотрудничества в области биофармацевтики. Мероприятие",
+    "images": []
+  },
+  {
+    "id": "aa318a4bd140",
+    "slug": "contacts",
+    "url": "http://altaybio.ru/index.php/contacts",
+    "title": "Контакты",
+    "category": "contacts",
+    "is_listing": false,
+    "source_id": null,
+    "date": null,
+    "excerpt": "Полное наименование – некоммерческое партнерство «Алтайский биофармацевтический кластер» Сокращенное наименование – некоммерческое партнерство «АБФК» Реквизиты: ИНН 2204039514, КПП 220401001, ОГРН 1082202001573 ОКВЭД 94.99, 72.2, 84.42.9 ОК",
+    "images": []
+  },
+  {
+    "id": "04ff8110a62a",
+    "slug": "administratsiya-goroda-bijska",
+    "url": "http://altaybio.ru/index.php/administratsiya-goroda-bijska",
+    "title": "Администрация города Бийска",
+    "category": "member",
+    "is_listing": false,
+    "source_id": null,
+    "date": null,
+    "excerpt": "Студеникин Александр Петрович , Глава города Бийска Администрация города является исполнительно-распорядительным органом местного самоуправления и в соответствии с Уставом может решать вопросы местного значения и осуществлять отдельные госу",
+    "images": [
+      {
+        "src": "/assets/source/st11-7624221577.jpg",
+        "original": "http://altaybio.ru/images/articles_img/st11.jpg",
+        "alt": "Студеникин Александр Петрович"
+      }
+    ]
+  },
+  {
+    "id": "68c027a2547a",
+    "slug": "members",
+    "url": "http://altaybio.ru/index.php/members",
+    "title": "Члены партнерства",
+    "category": "members",
+    "is_listing": false,
+    "source_id": null,
+    "date": null,
+    "excerpt": "Членами Партнерства могут быть любые юридические и физические лица, признающие Устав Партнерства и принципы его деятельности, выразившие согласие на вступление в Партнерство в качестве его члена и активно содействующие его деятельности, жел",
+    "images": []
+  },
+  {
+    "id": "a816d599a115",
+    "slug": "147-biznes-missiya-ekaterinburg",
+    "url": "http://altaybio.ru/index.php/actions/147-biznes-missiya-ekaterinburg",
+    "title": "Бизнес-миссия Екатеринбург",
+    "category": "news",
+    "is_listing": false,
+    "source_id": 147,
+    "date": null,
+    "excerpt": "10–11 декабря 2024 года состоялась бизнес-миссия в Свердловскую область, в которой приняли участие компании НП «Алтайский биофармацевтический кластер». Мероприятие было нацелено на развитие межрегионального сотрудничества в сфере биофармаце",
+    "images": [
+      {
+        "src": "/assets/source/ekb1-193cc92120.jpg",
+        "original": "http://altaybio.ru/images/news/ekb1.jpg",
+        "alt": ""
+      },
+      {
+        "src": "/assets/source/ekb2-ead6310f91.jpg",
+        "original": "http://altaybio.ru/images/news/ekb2.jpg",
+        "alt": ""
+      },
+      {
+        "src": "/assets/source/ekb3-c0bd171190.jpg",
+        "original": "http://altaybio.ru/images/news/ekb3.jpg",
+        "alt": ""
+      },
+      {
+        "src": "/assets/source/ekb4-e5a3dcf5a3.jpg",
+        "original": "http://altaybio.ru/images/news/ekb4.jpg",
+        "alt": ""
+      },
+      {
+        "src": "/assets/source/ekb5-c6f7e73ad8.jpg",
+        "original": "http://altaybio.ru/images/news/ekb5.jpg",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "id": "f3976964af7b",
+    "slug": "home",
+    "url": "http://altaybio.ru/",
+    "title": "Главная страница исходного сайта",
+    "category": "other",
+    "is_listing": false,
+    "source_id": null,
+    "date": null,
+    "excerpt": "Алтайский биофармацевтический кластер(АБФК) – один из элементов инновационной структуры наукограда Бийск, состоящий из 36 организаций, включая таких российских лидеров по производству биологически активных добавок (БАД) и фармацевтических п",
+    "images": [
+      {
+        "src": "/assets/source/inter-ed9757bcef.jpg",
+        "original": "http://altaybio.ru/images/inter.jpg",
+        "alt": ""
+      }
+    ]
+  }
+]

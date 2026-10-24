@@ -1,0 +1,24 @@
+const {chromium}=require('/opt/codex/cua_node/lib/node_modules/playwright');
+const fs=require('fs');
+(async()=>{
+const b=await chromium.launch({headless:true,executablePath:'/usr/bin/chromium',args:['--no-sandbox']});
+const page=await b.newPage({viewport:{width:1440,height:1000},deviceScaleFactor:1});
+const errors=[],failed=[],checks=[];
+page.on('pageerror',e=>errors.push(e.message));page.on('response',r=>{if(r.status()>=400)failed.push({url:r.url(),status:r.status()})});
+await page.goto('http://127.0.0.1:8000',{waitUntil:'networkidle'});await page.locator('h1').waitFor();
+await page.screenshot({path:'/workspace/sites/altaybio-green/research/qa/desktop.png',fullPage:true});
+checks.push({name:'home',h1:await page.locator('h1').innerText(),overflow:await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth)});
+await page.locator('nav.desktop-nav a[href="#/members"]').click();await page.locator('.member-card').first().waitFor();checks.push({name:'members',count:await page.locator('.member-card').count()});
+await page.locator('#list-query').fill('Эвалар');await page.waitForTimeout(300);checks.push({name:'member search',text:await page.locator('#list-results').innerText()});
+await page.locator('.member-card').first().click();await page.locator('.article-body').waitFor();checks.push({name:'member article',h1:await page.locator('h1').innerText(),images:await page.locator('.article-body img').count()});
+await page.goto('http://127.0.0.1:8000/#/news');await page.locator('.news-card').first().waitFor();checks.push({name:'news page 1',count:await page.locator('.news-card').count(),first:await page.locator('.news-card h3').first().innerText()});
+await page.locator('[data-page="2"]').first().click();checks.push({name:'news pagination',count:await page.locator('.news-card').count(),selected:await page.locator('[aria-current="page"]').innerText(),first:await page.locator('.news-card h3').first().innerText()});
+await page.locator('.news-card h3 a').first().click();await page.locator('.article-body').waitFor();checks.push({name:'news article',h1:await page.locator('h1').innerText(),brokenImages:await page.evaluate(()=>[...document.querySelectorAll('img')].filter(i=>i.complete&&!i.naturalWidth).map(i=>i.src))});
+await page.locator('#search-open').click();await page.locator('#global-query').fill('Бийск');await page.waitForTimeout(300);checks.push({name:'global quick search',count:await page.locator('.quick-result').count()});await page.locator('#global-search').evaluate(f=>f.requestSubmit());await page.locator('.archive-grid').waitFor();checks.push({name:'global search submit',url:page.url(),count:await page.locator('.news-card').count(),status:await page.locator('.result-count').innerText()});
+await page.goto('http://127.0.0.1:8000/#/contacts');await page.locator('.big-email').waitFor();checks.push({name:'contacts',email:await page.locator('.big-email').getAttribute('href')});
+await page.goto('http://127.0.0.1:8000/#/');await page.locator('h1').waitFor();await page.locator('#credits-open').click();await page.locator('#photo-credits li').first().waitFor();checks.push({name:'credits',text:await page.locator('#credits-content').innerText()});await page.locator('#credits-dialog .dialog-close').click();
+await page.setViewportSize({width:390,height:844});await page.goto('http://127.0.0.1:8000/#/');await page.waitForTimeout(250);await page.screenshot({path:'/workspace/sites/altaybio-green/research/qa/mobile.png',fullPage:true});checks.push({name:'mobile',overflow:await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth)});
+await page.locator('#menu-toggle').click();await page.locator('#mobile-nav a[href="#/news"]').click();await page.locator('.news-card').first().waitFor();checks.push({name:'mobile menu navigation',url:page.url(),hidden:await page.locator('#mobile-nav').evaluate(n=>n.hidden),overflow:await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth)});
+await page.screenshot({path:'/workspace/sites/altaybio-green/research/qa/mobile-news.png',fullPage:true});
+fs.writeFileSync('/workspace/sites/altaybio-green/research/qa/results.json',JSON.stringify({checks,errors,failed},null,2));console.log(JSON.stringify({checks,errors,failed},null,2));await b.close();
+})().catch(e=>{console.error(e);process.exit(1)});

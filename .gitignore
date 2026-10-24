@@ -1,0 +1,7 @@
+node_modules/
+__pycache__/
+*.pyc
+research/raw/
+*.tar.gz
+*.png
+!dist/assets/**
