@@ -1,0 +1,35 @@
+[
+  {
+    "file": "altai-valley.jpg",
+    "title": "Shallow River Between Green Mountains Under Blue Sky",
+    "location": "Kosh-Agachsky District, Altai Republic, Russia",
+    "author": "Yaroslav Shuraev",
+    "source": "https://www.pexels.com/photo/shallow-river-between-green-mountains-under-blue-sky-8761696/",
+    "download": "https://images.pexels.com/photos/8761696/pexels-photo-8761696.jpeg",
+    "license": "Pexels License",
+    "license_url": "https://www.pexels.com/license/",
+    "modifications": "Resized to fit 2400×1600, JPEG quality 88"
+  },
+  {
+    "file": "altai-katun.jpg",
+    "title": "Photograph of a River Near Green Trees",
+    "location": "Altai Republic, Russia — Katun River",
+    "author": "Анатолий Стафичук",
+    "source": "https://www.pexels.com/photo/photograph-of-a-river-near-green-trees-6137173/",
+    "download": "https://images.pexels.com/photos/6137173/pexels-photo-6137173.jpeg",
+    "license": "Pexels License",
+    "license_url": "https://www.pexels.com/license/",
+    "modifications": "Resized to fit 2400×1600, JPEG quality 88"
+  },
+  {
+    "file": "altai-lake.jpg",
+    "title": "A Lake by a Forest",
+    "location": "Altai Republic, Russia",
+    "author": "Евгений Шухман",
+    "source": "https://www.pexels.com/photo/a-lake-by-a-forest-8822168/",
+    "download": "https://images.pexels.com/photos/8822168/pexels-photo-8822168.jpeg",
+    "license": "Pexels License",
+    "license_url": "https://www.pexels.com/license/",
+    "modifications": "Resized to fit 2400×1600, JPEG quality 88"
+  }
+]
