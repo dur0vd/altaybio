@@ -15,7 +15,7 @@ GitHub Pages публикует корень ветки `gh-pages`, содерж
 
 ```sh
 git push github main
-git subtree push --prefix dist github gh-pages
+python scripts/deploy_github_pages.py github
 ```
 
 В этих командах remote `github` указывает на https://github.com/dur0vd/altaybio.git.
