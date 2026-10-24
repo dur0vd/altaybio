@@ -20,7 +20,7 @@ let listState={page:1,q:'',category:'all'}, activeView='', lastRoute='';
 function normalURL(u){try{const x=new URL(u,'http://altaybio.ru');x.protocol='http:';x.hostname=x.hostname.replace(/^www\./,'');x.hash='';return x.href.replace(/\/$/,'');}catch{return u}}
 function articleURL(p){return '#/article/'+p.id}
 function firstImage(p){return p.images?.find(i=>/\.(png|jpe?g|webp)(\?|$)/i.test(typeof i==='string'?i:i.src||i.original||''))}
-function imgSrc(i){return typeof i==='string'?i:i?.src||''}
+function imgSrc(i){return (typeof i==='string'?i:i?.src||'').replace(/^\/assets\//,'assets/')}
 function pageDate(p){
  if(!p.date)return '';
  const date=new Date(p.date);
@@ -62,6 +62,7 @@ function updateResults(){
 function pagination(max){let nums=[1,...Array.from({length:max},(_,i)=>i+1).filter(i=>Math.abs(i-listState.page)<=1),max];nums=[...new Set(nums)].sort((a,b)=>a-b);return `<nav class="pagination" aria-label="Страницы материалов"><button data-page="${listState.page-1}" ${listState.page===1?'disabled':''} aria-label="Предыдущая страница">←</button>${nums.map((n,i)=>`${i&&n-nums[i-1]>1?'<span>…</span>':''}<button data-page="${n}" ${n===listState.page?'aria-current="page"':''}>${n}</button>`).join('')}<button data-page="${listState.page+1}" ${listState.page===max?'disabled':''} aria-label="Следующая страница">→</button></nav>`}
 function cleanContent(html){
  const template=document.createElement('template');template.innerHTML=html||'';
+ $$('[src],[href]',template.content).forEach(n=>{for(const attr of ['src','href']){const value=n.getAttribute(attr);if(value?.startsWith('/assets/'))n.setAttribute(attr,value.slice(1));}});
  $$('script,style,iframe,object,embed,form,input,button,link,meta',template.content).forEach(n=>n.remove());
  $$('*',template.content).forEach(n=>{[...n.attributes].forEach(a=>{if(a.name.startsWith('on')||['style','class','id','width','height','align','bgcolor'].includes(a.name))n.removeAttribute(a.name)});});
  $$('a',template.content).forEach(a=>{
